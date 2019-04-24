@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="robots" content="noindex,follow">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Officer-involved Shootings Map | The Denver Post</title>
+    <link rel="shortcut icon" href="//extras.mnginteractive.com/live/media/favIcon/dpo/favicon.ico" type="image/x-icon" />
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/foundation/6.2.4/foundation.min.css" />
+    <link rel="stylesheet" href="//unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin="" />
+    <script src="//code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <script src="//cdn.jsdelivr.net/foundation/6.2.4/foundation.min.js"></script>
+    <script src="//extras.denverpost.com/foundation/js/vendor/modernizr.js"></script>
+    <script src="//unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script>
+    <script src="//extras.denverpost.com/app/homicide-report/js/leaflet-grouped-layer-control.js"></script>
+    <style>
+    @import url('//fonts.googleapis.com/css?family=Roboto');
+
+    html,
+    body {
+        height: 100%;
+        width: 100%;
+        padding: 0;
+        background-color: #fafafa;
+        font-family: 'Roboto', sans-serif;
+        margin-top: 1%;
+    }
+
+    #container {
+        height: 800px;
+        width: 893px;
+        margin: 0 auto;
+    }
+
+    #map {
+        height: 600px;
+        width: 100%;
+        /*width: 893px;
+        height: 600px;
+        margin: 0 auto;*/
+        border: 2px solid silver;
+    }
+
+    .leaflet-popup-content-wrapper {
+        border-radius: 0;
+        background-color: #fafafa;
+        max-width: 300px;
+        line-height: 100%;
+    }
+
+    .leaflet-container {
+        font-family: 'Roboto', sans-serif;
+    }
+
+    .leaflet-popup-content {
+        font-size: 1.2em;
+        letter-spacing: .2px;
+    }
+
+    /*#content-container {
+        padding: 15px;
+    }*/
+
+    .popup-text {
+        margin-bottom: -17px !important;
+        color: rgba(0, 0, 0, .8);
+    }
+
+    .popup-header {
+        font-weight: 700;
+        font-size: 1.1em;
+        /*letter-spacing: .5px;*/
+        /*text-transform: uppercase;*/
+        color: #000;
+        margin-bottom: 0;
+    }
+
+    .note {
+        font-size: .85em;
+        font-style: italic;
+    }
+
+    .source {
+        font-size: .85em;
+        color: rgba(0, 0, 0, .8);
+        font-style: italic;
+        text-align: right;
+        line-height: 17px;
+    }
+
+    .legend {
+        width: 60px;
+        height: 30px;
+        opacity: .6;
+        float: left;
+    }
+
+    .legend-text {
+        font-size: .7em;
+        font-weight: bold;
+        text-align: center;
+        margin-top: 7px;
+        letter-spacing: 1px;
+        line-height: 22px;
+    }
+
+    input.leaflet-control-layers-selector {
+        margin: 0;
+    }
+
+    label {
+        line-height: 1.45;
+    }
+
+    a.leaflet-control-layers-toggle {
+        background-color: red;
+    }
+
+    h2.map-title {
+        font-family: 'Roboto', sans-serif;
+        font-size: 2.5rem;
+        text-align: left;
+        font-weight: 700;
+        letter-spacing: 0px;
+        line-height: 25px;
+        color: rgba(0, 0, 0, .8);
+        margin-bottom: 20px;
+        line-height: 33px;
+    }
+
+    h3.tooltip-title {
+        font-family: 'Roboto', sans-serif;
+        font-size: 1.2rem;
+        font-weight: 700;
+        letter-spacing: 0px;
+        line-height: 21px;
+        color: rgba(0, 0, 0, .7);
+        margin-bottom: -15px;
+        text-transform: uppercase;
+    }
+
+    p.address {
+        font-style: italic;
+        color: rgba(0, 0, 0, .6);
+        font-size: .8rem;
+        line-height: 16px;
+    }
+
+    p.tooltip-subheader {
+        text-transform: uppercase;
+        font-size: .8rem;
+        font-weight: 700;
+        color: rgba(0,0,0,.4);
+        margin-bottom: -22px;
+    }
+
+    p.tooltip-text {
+        font-size: 1rem;
+        color: rgba(0,0,0,1);
+        margin-bottom: -10px;
+        line-height: 20px;
+    }
+
+    p.tooltip-link {
+        text-align: right;
+        font-style: italic;
+        font-size: .8rem;
+        text-transform: uppercase;
+        font-weight: 700;
+    }
+
+    table {
+        border-collapse: collapse;
+    }
+
+    table thead {
+        background-color: #fafafa;
+        padding-bottom: 0;
+    }
+
+    table thead th {
+        border-bottom: 2px solid silver;
+        padding-bottom: 0;
+        color: rgba(0, 0, 0, .6);
+        font-weight: normal;
+    }
+
+    table tbody td {
+        padding: 2px 0 4px 12px;
+        font-weight: bold;
+        text-align: center;
+        font-size: .9rem;
+        text-transform: uppercase;
+        color: rgba(0, 0, 0, .6);
+    }
+
+    table tr {
+        /*border-bottom: 1px solid silver;
+        border-top: 1px solid #fafafa;
+        border-left: 1px solid #fafafa;
+        border-right: 1px solid #fafafa;*/
+        border: 1px solid silver;
+    }
+
+    /*table tr:last-child {
+        border: 1px solid #fafafa;
+    }*/
+
+    table tbody tr:nth-child(2n) {
+        background-color: #fafafa;
+    }
+
+    table tbody tr:nth-child(1n) {
+        background-color: #fafafa;
+    }
+
+    span.table-header {
+        font-size: .7rem;
+        text-transform: uppercase;
+        color: rgba(0, 0, 0, .5);
+    }
+
+    .instructions {
+        text-align: center;
+        font-size: .9rem;
+        font-style: italic;
+        color: red;
+        opacity: .6;
+        font-weight: 700;
+    }
+
+    #legend-container {
+        float: left;
+        margin: 5px 0 -10px 15px;
+    }
+
+    .legend-item {
+        float: left;
+    }
+
+    div.legend-circle-small {
+        height: 25px;
+        width: 25px;
+        border-radius: 50%;
+        background-color: rgba(128, 0, 128, .1);
+        margin-top: 0px;
+    }
+
+    div.legend-circle-large {
+        height: 50px;
+        width: 50px;
+        border-radius: 50%;
+        background-color: rgba(128, 0, 128, .1);
+        margin-top: -13px;
+    }
+
+    span.circle-number {
+        font-size: .7rem;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        color: #737373;
+        display: inline-block;
+    }
+
+    p.bubble-title {
+        text-transform: uppercase;
+        color: rgba(0, 0, 0, .7);
+        font-size: .8rem;
+        font-weight: bold;
+        margin-right: 10px;
+        padding-top: 3px;
+    }
+
+    p.intro {
+        color: rgba(0, 0, 0, .8);
+    }
+    </style>
+</head>
+
+<body>
+    <div id="container">
+        <h2 class="map-title">Officer-involved shootings</h2>
+        <p class="intro">Chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter.
+        <p class="instructions">Zoom map and click circles for details</p>
+        <div id="legend-container">
+            <div class="legend-item">
+                <p class="bubble-title"><span style="border-top:5px solid rgba(255,0,0,.5)">Killed (75)</span> &bull; <span style="border-top:5px solid rgba(0,0,255,.5)">Wounded (47)</span> &bull; <span style="border-top:5px solid rgba(0,0,0,.5)">Multiple (11)</span></p>
+            </div>
+        </div>
+        <div id="map"></div>
+        <p class="source">By Kevin Hamm, The Denver Post &bull; Source: Denver Post research &bull; Locations are approximate</p>
+    </div>
+    <script>
+    var map = L.map('map', {
+        // center: [39.7392, -104.9903],
+        // zoom: 13,
+        // minZoom: 11,
+        // preferCanvas: true
+    });
+
+    L.tileLayer('https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png', {
+        attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>',
+        subdomains: 'abcd',
+        maxZoom: 19
+    }).addTo(map);
+
+    $.getJSON("ois-data.geojson", function(data) {
+        // var mapIcon = L.divIcon({
+        //     className: 'icon-2018',
+        //     iconSize: [8, 8]
+        // });
+
+        var allMarkers = L.geoJson(data, {
+            pointToLayer: function(feature, latlng) {
+                var killedMarker = {
+                    radius: 6,
+                    fillColor: "red",
+                    color: "",
+                    weight: 0,
+                    opacity: 0,
+                    fillOpacity: .5
+                };
+
+                var woundedMarker = {
+                    radius: 6,
+                    fillColor: "blue",
+                    color: "",
+                    weight: 0,
+                    opacity: 0,
+                    fillOpacity: .5
+                };
+
+                var multipleMarker = {
+                    radius: 6,
+                    fillColor: "black",
+                    color: "",
+                    weight: 0,
+                    opacity: 0,
+                    fillOpacity: .5
+                };
+
+                // var mapMarkerUnion = {
+                //     radius: 10,
+                //     fillColor: "purple",
+                //     color: "gray",
+                //     weight: 8,
+                //     opacity: 1,
+                //     fillOpacity: .6
+                // };
+
+                // var unionStationIcon = L.icon({
+                //     iconUrl: 'star-icon.png',
+                //     //shadowUrl: 'leaf-shadow.png',
+
+                //     iconSize: [35, 35], // size of the icon
+                //     //shadowSize: [50, 64], // size of the shadow
+                //     //iconAnchor: [22, 94], // point of the icon which will correspond to marker's location
+                //     //shadowAnchor: [4, 62], // the same for the shadow
+                //     popupAnchor: [0, -10] // point from which the popup should open relative to the iconAnchor
+                // });
+
+                var tooltipText = '<h3 class="tooltip-title">' + feature.properties.agency + '</h3><p class="address">' + feature.properties.date + ' &bull; ' + feature.properties.address + ', ' + feature.properties.location + '</p><hr><p class="tooltip-subheader">Victim</p><p class="tooltip-text">' + feature.properties.victimName + ' (' + feature.properties.victimStatus + ')</p><p class="tooltip-subheader">Was suspect armed?</p><p class="tooltip-text">' + feature.properties.victimArmed + '</p><p class="tooltip-subheader">Officer involved</p><p class="tooltip-text">' + feature.properties.officerName + '</p><p class="tooltip-link"><a href="' + feature.properties.letterUrl + '" target="_blank">Read decision letter</a></p>';
+
+                if (feature.properties.statusMap == 'Killed') {
+                    return L.circleMarker(latlng, killedMarker).bindPopup(tooltipText)
+                } else if (feature.properties.statusMap == 'Wounded') {
+                    return L.circleMarker(latlng, woundedMarker).bindPopup(tooltipText)
+                } else if (feature.properties.statusMap == 'Multiple') {
+                    return L.circleMarker(latlng, multipleMarker).bindPopup(tooltipText)
+                }
+            }
+        });
+
+        allMarkers.addTo(map);
+
+        map.fitBounds(allMarkers.getBounds(), {
+            //padding: [50, 50]
+        });
+    });
+    </script>
+</body>
+
+</html>
