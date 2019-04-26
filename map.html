@@ -284,16 +284,16 @@
 
 <body>
     <div id="container">
-        <h2 class="map-title">Officer-involved shootings</h2>
-        <p class="intro">Chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter.
-        <p class="instructions">Zoom map and click circles for details</p>
+        <h2 class="map-title">Denver metro area officer-involved shootings</h2>
+        <p class="intro">In the past four years, shootings by law enforcement in the suburbs have more than tripled. During that same time, such shootings in Denver and Aurora have remained relatively level or declined. The Denver Post built a database of all shootings by police in Adams, Arapahoe, Douglas, Jefferson, Broomfield and Denver counties from 2014 to 2018 in which a person was injured or killed. The data also includes two non-shooting fatal use of force incidents in Aurora that prosecutors evaluated. Some of the victims include law enforcement officers who were shot in the incidents. <em>Notes: *Incident still under investigation &bull; **No decision letter because case referred to grand jury &bull; <a href="https://www.denverpost.com/2019/01/30/colorado-officer-involved-shootings-map/" target="_blank">Click here for 2019 incidents</a></em>
+        <p class="instructions">Zoom map and click circles for details &bull; see table below story for individual records</p>
         <div id="legend-container">
             <div class="legend-item">
-                <p class="bubble-title"><span style="border-top:5px solid rgba(255,0,0,.5)">Killed (75)</span> &bull; <span style="border-top:5px solid rgba(0,0,255,.5)">Wounded (47)</span> &bull; <span style="border-top:5px solid rgba(0,0,0,.5)">Multiple (11)</span></p>
+                <p class="bubble-title"><span style="border-top:5px solid rgba(255,0,0,.5)">Killed (72)</span> &bull; <span style="border-top:5px solid rgba(0,0,255,.5)">Wounded (43)</span> &bull; <span style="border-top:5px solid rgba(0,0,0,.5)">Multiple (16)</span></p>
             </div>
         </div>
         <div id="map"></div>
-        <p class="source">By Kevin Hamm, The Denver Post &bull; Source: Denver Post research &bull; Locations are approximate</p>
+        <p class="source">By Kevin Hamm, The Denver Post &bull; Source: District attorneys, Denver Post research &bull; Locations are approximate</p>
     </div>
     <script>
     var map = L.map('map', {
@@ -364,7 +364,15 @@
                 //     popupAnchor: [0, -10] // point from which the popup should open relative to the iconAnchor
                 // });
 
-                var tooltipText = '<h3 class="tooltip-title">' + feature.properties.agency + '</h3><p class="address">' + feature.properties.date + ' &bull; ' + feature.properties.address + ', ' + feature.properties.location + '</p><hr><p class="tooltip-subheader">Victim(s)</p><p class="tooltip-text">' + feature.properties.victimName + '<p class="tooltip-subheader">Condition</p><p class="tooltip-text">' + feature.properties.victimStatus + '<p class="tooltip-subheader">Was suspect armed?</p><p class="tooltip-text">' + feature.properties.victimArmed + '</p><p class="tooltip-subheader">Officer(s) involved</p><p class="tooltip-text">' + feature.properties.officerName + '</p><p class="tooltip-link"><a href="' + feature.properties.letterUrl + '" target="_blank">Read decision letter</a></p>';
+                var letterText;
+
+                if (feature.properties.letterUrl == 'No letter available') {
+                    letterText = 'No letter available'
+                } else {
+                    letterText = '<a href="' + feature.properties.letterUrl + '" target="_blank">Read decision letter</a>'
+                }
+
+                var tooltipText = '<h3 class="tooltip-title">' + feature.properties.agency + '</h3><p class="address">' + feature.properties.date + ' &bull; ' + feature.properties.address + ', ' + feature.properties.location + '</p><hr><p class="tooltip-subheader">Victim(s)</p><p class="tooltip-text">' + feature.properties.victimName + '<p class="tooltip-subheader">Condition</p><p class="tooltip-text">' + feature.properties.victimStatus + '<p class="tooltip-subheader">Was suspect armed?</p><p class="tooltip-text">' + feature.properties.victimArmed + '</p><p class="tooltip-subheader">Officer(s) involved</p><p class="tooltip-text">' + feature.properties.officerName + '</p><p class="tooltip-link">' + letterText + '</p>';
 
                 if (feature.properties.statusMap == 'Killed') {
                     return L.circleMarker(latlng, killedMarker).bindPopup(tooltipText)

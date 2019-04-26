@@ -105,8 +105,8 @@
         <div id="lockdowns-table-container">
             <div class="row">
                 <div class="large-12 columns">
-                    <h2 class="table-title">Colorado officer-involved shootings</h2>
-                    <p class="body-text">Chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter.</p>
+                    <h2 class="table-title">Denver metro area officer-involved shootings</h2>
+                    <p class="body-text">In the past four years, shootings by law enforcement in the suburbs have more than tripled. During that same time, such shootings in Denver and Aurora have remained relatively level or declined. The Denver Post built a database of all shootings by police in Adams, Arapahoe, Douglas, Jefferson, Broomfield and Denver counties from 2014 to 2018 in which a person was injured or killed. The data also includes two non-shooting fatal use of force incidents in Aurora that prosecutors evaluated. Some of the victims include law enforcement officers who were shot in the incidents. <em>Notes: *Incident still under investigation &bull; **No decision letter because case referred to grand jury &bull; <a href="https://www.denverpost.com/2019/01/30/colorado-officer-involved-shootings-map/" target="_blank">Click here for 2019 incidents</a></em></p>
                     <p class="instructions-text">Use dropdown menus or keyword search to filter table &bull; click name to go to decision letter or news story &bull; click column headers to sort</p>
                 </div>
             </div>
@@ -225,7 +225,7 @@
                 {
                     data: 'properties.victimName',
                     render: function(data, type, row) {
-                        if (row.properties.letterUrl != '') {
+                        if (row.properties.letterUrl != 'No letter available') {
                             return '<a href="' + row.properties.letterUrl + '" target="_blank">' + row.properties.victimName + '</a>'
                         } else {
                             return row.properties.victimName

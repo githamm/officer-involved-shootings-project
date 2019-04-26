@@ -6,24 +6,249 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.001775,
-          39.824226
+          -104.981629,
+          39.855302
         ]
       },
       "properties": {
         "button": "",
-        "date": "7/7/18",
-        "year": "2018",
-        "address": "7028 Lipan St.",
-        "location": "Adams County",
-        "suburbCity": "Suburb",
-        "agency": "Adams County Sheriff",
-        "officerName": "Isaiah Acosta",
-        "victimName": "Adrian Martinez",
+        "date": "1/2/14",
+        "year": "2014",
+        "address": "368 E. 88th Ave.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police, Thornton Police",
+        "officerName": "Lee Simones (Denver), Jay Otey (Denver), Bill Twinem (Thornton)",
+        "victimName": "Wesley Maldonado",
         "victimStatus": "Killed",
         "statusMap": "Killed",
         "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/11/OIS-2018-07-07-Letter-2018-11-02.pdf"
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2014/04/Decision-letter-re-officer-involved-shooting-Jan.-2-2014.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9331086,
+          39.8001071
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "1/13/14",
+        "year": "2014",
+        "address": "I-270, east of the Platte River",
+        "location": "Commerce City",
+        "suburbCity": "Suburb",
+        "agency": "Colorado State Patrol, Commerce City Police, Adams County Sheriff",
+        "officerName": "Daniel Fiallo (State Patrol), David Coleman (Commerce City), Skyler Vonfeldt (Adams)",
+        "victimName": "Ryan Schenk",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2014/04/Officer-involved-shooting-January-14-2014.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8446871,
+          39.7413823
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "3/19/14",
+        "year": "2014",
+        "address": "East 16th Avenue and Quentin Street",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "University of Colorado-Denver Police",
+        "officerName": "Sgt. John Hughes",
+        "victimName": "Joseph Gorden",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2014/06/Decision-letter-in-officer-involved-shooting-March-19-2014.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9222308,
+          39.7983397
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "11/20/14",
+        "year": "2014",
+        "address": "East 56th Avenue and North Holly Street",
+        "location": "Commerce City",
+        "suburbCity": "Suburb",
+        "agency": "Denver Police",
+        "officerName": "Martin Tritschler",
+        "victimName": "Joel and Carlos Jurado",
+        "victimStatus": "Wounded, wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2015/02/November-20-2014-officer-involved-shooting-decision-letter.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0067064,
+          39.8510408
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "1/26/14",
+        "year": "2014",
+        "address": "8495 Pecos St.",
+        "location": "Federal Heights",
+        "suburbCity": "Suburb",
+        "agency": "Federal Heights Police",
+        "officerName": "Rick Lahr",
+        "victimName": "Pierree Davis",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2015/03/OIS-January-26-2014.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8742933,
+          39.7551716
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "6/8/15",
+        "year": "2015",
+        "address": "2014 N. Emporia St.",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Colorado Department of Corrections",
+        "officerName": "Laurie Strong",
+        "victimName": "Michael Meeks",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2015/07/OIS-Letter-7-8-15.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9762724,
+          39.8944915
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "5/28/15",
+        "year": "2015",
+        "address": "10909 E. 109th Place",
+        "location": "Northglenn",
+        "suburbCity": "Suburb",
+        "agency": "Northglenn Police, Thornton Police",
+        "officerName": "Nicholas Wilson (Northglenn), Jason Schlenker (Thornton)",
+        "victimName": "James Strong, Nicholas Wilson (officer)",
+        "victimStatus": "Killed, wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2015/08/OIS-2015-05-28-Letter-2015-08-14.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9968538,
+          39.9402627
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "6/10/15",
+        "year": "2015",
+        "address": "1100 block of Huron Street",
+        "location": "Northglenn",
+        "suburbCity": "Suburb",
+        "agency": "Northglenn Police",
+        "officerName": "Jeramie Lund, Matthew Hindman",
+        "victimName": "Rickie Pacheco Jr.",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2015/10/OIS-2015-06-10-Letter-2015-10-09.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0393957,
+          39.957167
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "9/11/15",
+        "year": "2015",
+        "address": "4036 W. 144th Ave.",
+        "location": "Broomfield",
+        "suburbCity": "Suburb",
+        "agency": "Broomfield Police",
+        "officerName": "Joel Waight",
+        "victimName": "Phillip Pfleghardt",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2015/11/OIS-2015-09-11-Letter-2015-11-09.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.827227,
+          39.972302
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "11/10/15",
+        "year": "2015",
+        "address": "U.S. 85 near Bromley Lane",
+        "location": "Brighton",
+        "suburbCity": "Suburb",
+        "agency": "Longmont Police, Adams County Sheriff, Colorado State Patrol",
+        "officerName": "Gilbert Abdullah (Adams Count), Walter Berlinski (Adams County), Nathan Parks (State Patrol), Robert Buswold (Longmont)",
+        "victimName": "Jason Mesaros",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2016/02/OIS-2015-11-10-Letter-2016-02-18.pdf"
       }
     },
     {
@@ -56,6 +281,106 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -104.9850553,
+          39.8543785
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "3/23/16",
+        "year": "2016",
+        "address": "8703 Grant St.",
+        "location": "Thornton",
+        "suburbCity": "Suburb",
+        "agency": "Thornton Police",
+        "officerName": "Sgt. Pat Long, Anthony Jenkins, John Martinez",
+        "victimName": "Daven Hannu, Pat Long (officer)",
+        "victimStatus": "Killed, wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2016/06/OIS-2016-03-23-Letter-2016-06-22.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0439379,
+          39.8299879
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "4/27/16",
+        "year": "2016",
+        "address": "7350 Tennyson St.",
+        "location": "Westminster",
+        "suburbCity": "Suburb",
+        "agency": "Westminster Police",
+        "officerName": "Roger Stockman, Rob Phelps, Matt Neihart, James Holley, Anthony Stroup",
+        "victimName": "Damon Blair",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2016/08/OIS-2016-04-27-Letter-2016-08-29.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8219779,
+          39.740772
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "5/1/16",
+        "year": "2016",
+        "address": "14251 E. Colfax Ave.",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Aurora Police",
+        "officerName": "Alfred Eways",
+        "victimName": "Dillon Safford",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2016/10/OIS-2016-05-01-Letter-2016-10-07.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9907425,
+          39.9167259
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "9/20/16",
+        "year": "2016",
+        "address": "12170 Bannock St.",
+        "location": "Westminster",
+        "suburbCity": "Suburb",
+        "agency": "Westminster Police",
+        "officerName": "Anthony Stroup, Damian Perez",
+        "victimName": "Thomas Tucker",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2016/12/OIS-2016-09-20-Letter-2016-12-09.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -105.0000311,
           39.8603434
         ]
@@ -74,6 +399,31 @@
         "statusMap": "Wounded",
         "victimArmed": "Yes",
         "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2017/02/OIS-2016-12-3-Letter-2017-2-17.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0423295,
+          39.8997165
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "3/14/17",
+        "year": "2017",
+        "address": "West 112th Avenue and Stuart Street",
+        "location": "Westminster",
+        "suburbCity": "Suburb",
+        "agency": "Colorado State Patrol, Lakewood Police, Wheat Ridge Police",
+        "officerName": "Sgt. Matthew Beaudin (State Patrol), Wes Kartus (State Patrol), Charles Orris (Lakewood), Keith Weimer (Wheat Ridge)",
+        "victimName": "Alexander Meltz",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2017/07/OIS-2017-03-14-Letter-2017-06-20.pdf"
       }
     },
     {
@@ -106,24 +456,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.0749761,
-          39.8500107
+          -105.0052912,
+          39.8900884
         ]
       },
       "properties": {
         "button": "",
-        "date": "1/31/18",
-        "year": "2018",
-        "address": "6952 W. 84th Way",
-        "location": "Arvada",
+        "date": "1/7/17",
+        "year": "2017",
+        "address": "10700 Pecos St.",
+        "location": "Northglenn",
         "suburbCity": "Suburb",
-        "agency": "Arvada Police",
-        "officerName": "Benallo, Laas, LeDoux, Saathoff",
-        "victimName": "Adrian Valdez",
+        "agency": "Northglenn Police",
+        "officerName": "Joshua Burke",
+        "victimName": "Hector Navarrette",
         "victimStatus": "Killed",
         "statusMap": "Killed",
         "victimArmed": "Yes",
-        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/15687/18-02-Decision-Letter-Officer-Involved-Shooting-01-31-2018"
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2017/07/OIS-2017-1-7-Letter-2017-4-21.pdf"
       }
     },
     {
@@ -131,24 +481,474 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.0172089,
-          39.682888
+          -105.0041816,
+          39.9408274
         ]
       },
       "properties": {
         "button": "",
-        "date": "2/6/18",
-        "year": "2018",
-        "address": "1873 S. Alcott St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "John Albergotti",
-        "victimName": "Alex Duran",
+        "date": "5/9/17",
+        "year": "2017",
+        "address": "1318 W. 135th Ave.",
+        "location": "Westminster",
+        "suburbCity": "Suburb",
+        "agency": "Westminster Police",
+        "officerName": "David Galbraith, Mike Catalano, Sgt. Jason Poppenger, Drew Smith",
+        "victimName": "Joseph Jaster, Sgt. Brian Hempelman (officer)",
+        "victimStatus": "Killed, wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2017/09/OIS-2017-05-09-Letter-2017-09-15.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0360231,
+          39.8201698
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "6/30/17",
+        "year": "2017",
+        "address": "3700 W. 68th Ave.",
+        "location": "Westminster",
+        "suburbCity": "Suburb",
+        "agency": "Westminster Police",
+        "officerName": "Roger Stockman, Scott Hopkins",
+        "victimName": "Brett Rodriguez",
         "victimStatus": "Killed",
         "statusMap": "Killed",
         "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/officer-involved-shooting-investigations-decision-letters/"
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2017/09/OIS-2017-06-30-Letter-2017-09-26.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0083406,
+          39.8519089
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "7/4/17",
+        "year": "2017",
+        "address": "1800 block of West 85th Avenue",
+        "location": "Federal Heights",
+        "suburbCity": "Suburb",
+        "agency": "Federal Heights Police",
+        "officerName": "Sgt. Jon Hess",
+        "victimName": "Juan Manriquez",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2017/10/OIS-2017-07-04-Letter-2017-10-12.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.917938,
+          39.860835
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "9/22/17",
+        "year": "2017",
+        "address": "9001 Monaco St.",
+        "location": "Adams County",
+        "suburbCity": "Suburb",
+        "agency": "Adams County Sheriff",
+        "officerName": "Sgt. Ian Austin",
+        "victimName": "Gaston Dominguez-Dominguez",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2017/12/DOC122217-12222017135100.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0048576,
+          39.8374671
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "9/27/17",
+        "year": "2017",
+        "address": "7762 Osage St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Adams County Sheriff",
+        "officerName": "Dustin Ball, Sgt. Chris Eye, Lance Kestel",
+        "victimName": "Troy Coen",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/02/OIS-2017-9-27-Letter-2018-2-6.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9859668,
+          39.8801533
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "1/11/18",
+        "year": "2018",
+        "address": "10003 Grant St.",
+        "location": "Thornton",
+        "suburbCity": "Suburb",
+        "agency": "Thornton Police",
+        "officerName": "Oscar Hernandez",
+        "victimName": "James Warnock",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "No",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/03/OIS-2018-01-11-Letter-2018-03-23.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.96568,
+          39.855799
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "12/7/17",
+        "year": "2017",
+        "address": "8770 Gaylen Court",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Adams County Sheriff",
+        "officerName": "Wilfred Europe",
+        "victimName": "Kyle Grabbingbear",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/04/OIS-2017-12-7-Letter-2018-4-13.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9865909,
+          39.8330722
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "1/16/18",
+        "year": "2018",
+        "address": "7520 Broadway",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Adams County Sheriff",
+        "officerName": "Walter Berlinski",
+        "victimName": "Bailey Turner",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/05/OIS-2018-01-16-Letter-2018-05-02.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.926137,
+          39.872926
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "1/21/18",
+        "year": "2018",
+        "address": "5276 Riverdale Way",
+        "location": "Adams County",
+        "suburbCity": "Suburb",
+        "agency": "Adams County Sheriff",
+        "officerName": "Lonn Trail, Benjamin Mainero",
+        "victimName": "Garron Torgerson, Lonn Trail (officer)",
+        "victimStatus": "Wounded, wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "No",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/05/OIS-2018-01-21-Letter-2018-05-24.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.834085,
+          39.975095
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "2/7/18",
+        "year": "2018",
+        "address": "744 Mockingbird St.",
+        "location": "Brighton",
+        "suburbCity": "Suburb",
+        "agency": "Brighton Police",
+        "officerName": "Sgt. Nicholas Struck",
+        "victimName": "Carlos Candelaria",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/05/OIS-2018-2-7-Letter-2018-5-17.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9678404,
+          39.8858094
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "12/13/17",
+        "year": "2017",
+        "address": "10445 Franklin Way",
+        "location": "Northglenn",
+        "suburbCity": "Suburb",
+        "agency": "Northglenn Police",
+        "officerName": "Nathan Galluzzo, Zachery Schieferecke, Emil Czernicki",
+        "victimName": "Jeremy Patscheck, Serina Minella",
+        "victimStatus": "Killed, wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "No",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/07/OIS-2017-12-13-Letter-2018-07-20.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8099325,
+          39.7594178
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "4/9/18",
+        "year": "2018",
+        "address": "Chamber Road and Smith Road",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Aurora Police",
+        "officerName": "Michael Dieck",
+        "victimName": "Tyrell Tyrone Jones",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/07/OIS-2018-04-09-Letter-2018-07-02-1.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9795699,
+          39.9026495
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "4/28/18",
+        "year": "2018",
+        "address": "530 Malley Drive",
+        "location": "Northglenn",
+        "suburbCity": "Suburb",
+        "agency": "Westminster Police",
+        "officerName": "Josh Verver, Chris Neal, Mark Cressman, Janay Hall",
+        "victimName": "David Navarro",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/07/OIS-2018-04-28-Letter-2018-07-27.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9767715,
+          39.8559837
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "4/13/18",
+        "year": "2018",
+        "address": "800 block of East 88th Avenue",
+        "location": "Thornton",
+        "suburbCity": "Suburb",
+        "agency": "U.S. Marshal, ATF",
+        "officerName": "Special Agent Ryan McKone, Deputy U.S. Marshal Bryan Bailey",
+        "victimName": "Bruce Allee",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/09/OIS-2018-04-13-Letter-2018-09-20.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.001775,
+          39.824226
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "7/7/18",
+        "year": "2018",
+        "address": "7028 Lipan St.",
+        "location": "Adams County",
+        "suburbCity": "Suburb",
+        "agency": "Adams County Sheriff",
+        "officerName": "Isaiah Acosta",
+        "victimName": "Adrian Martinez",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/11/OIS-2018-07-07-Letter-2018-11-02.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0204617,
+          39.8141083
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "7/28/18",
+        "year": "2018",
+        "address": "65th Avenue and Clay Street",
+        "location": "Adams County",
+        "suburbCity": "Suburb",
+        "agency": "Aurora Police",
+        "officerName": "Christopher Yarborough",
+        "victimName": "Isaiah Leyva",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/11/OIS-2018-07-28-Letter-2018-11-13.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0544629,
+          39.9122195
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "8/2/18",
+        "year": "2018",
+        "address": "11875 Sheridan Blvd.",
+        "location": "Westminster",
+        "suburbCity": "Suburb",
+        "agency": "Westminster Police",
+        "officerName": "Anthony Guzman",
+        "victimName": "Michael Gonzales",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/12/Decision-letter-OIS-August-2-2018.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8641376,
+          39.7477866
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "7/30/18",
+        "year": "2018",
+        "address": "10609 E. Motview Blvd.",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Aurora Police",
+        "officerName": "Drew Limbaugh",
+        "victimName": "Richard \"Gary\" Black",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/12/OIS-2018-07-30-Letter-2018-12-03.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0249499,
+          39.9056132
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "8/25/18",
+        "year": "2018",
+        "address": "Federal Boulevard and Ranch Reserve Parkway",
+        "location": "Westminster",
+        "suburbCity": "Suburb",
+        "agency": "Westminster Police",
+        "officerName": "Steven Bare",
+        "victimName": "Birenda Thakuri",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2019/01/OIS-2018-08-25-Letter-2019-01-03.pdf"
       }
     },
     {
@@ -174,31 +974,6 @@
         "statusMap": "Wounded",
         "victimArmed": "Yes",
         "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/alex-martines.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0423295,
-          39.8997165
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "3/14/17",
-        "year": "2017",
-        "address": "West 112th Avenue and Stuart Street",
-        "location": "Westminster",
-        "suburbCity": "Suburb",
-        "agency": "Colorado State Patrol, Lakewood Police, Wheat Ridge Police",
-        "officerName": "Sgt. Matthew Beaudin, Wes Kartus, Charles Orris, Keith Weimer",
-        "victimName": "Alexander Meltz",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2017/07/OIS-2017-03-14-Letter-2017-06-20.pdf"
       }
     },
     {
@@ -256,81 +1031,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.0537323,
-          39.7339701
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "8/23/17",
-        "year": "2017",
-        "address": "1198 Sheridan Blvd",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "RTD Security",
-        "officerName": "Jesse Opp, Stephanie Suttmiller",
-        "victimName": "Armando Vigil",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2018/Decision-letter-re-Officer-Involved-Shooting-death-of-Armando-Vigil-August-23-2017.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.1089937,
-          39.5691934
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "9/21/17",
-        "year": "2017",
-        "address": "8134 South Kipling Parkway",
-        "location": "Littleton",
-        "suburbCity": "Suburb",
-        "agency": "Jefferson County Sheriff",
-        "officerName": "Andrew James",
-        "victimName": "Austin Clayon Dunsmore",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/11640/17-02-Decision-Letter-Officer-Involved-Shooting-09-21-2017"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9911862,
-          39.7849704
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "8/8/14",
-        "year": "2014",
-        "address": "4849 Bannock St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Colorado State Patrol",
-        "officerName": "Matthew Beaudin",
-        "victimName": "Austin David Uncles",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/Decision-Letter-re-8-8-14-Officer-Involved-shooting----Colorado-State-Patrol-Sgt--Matthew-Beaudin---(2).pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -105.1095093,
           39.7856388
         ]
@@ -349,356 +1049,6 @@
         "statusMap": "Killed",
         "victimArmed": "Yes",
         "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/bailey-greek.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9865909,
-          39.8330722
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/16/18",
-        "year": "2018",
-        "address": "7520 Broadway",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Adams County Sheriff",
-        "officerName": "Walter Berlinski",
-        "victimName": "Bailey Turner",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/05/OIS-2018-01-16-Letter-2018-05-02.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0249499,
-          39.9056132
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "8/25/18",
-        "year": "2018",
-        "address": "Federal Boulevard and Ranch Reserve Parkway",
-        "location": "Westminster",
-        "suburbCity": "Suburb",
-        "agency": "Westminster Police",
-        "officerName": "Steven Bare",
-        "victimName": "Birenda Thakuri",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2019/01/OIS-2018-08-25-Letter-2019-01-03.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0388925,
-          39.7400654
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/17/14",
-        "year": "2014",
-        "address": "1490 Perry St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Vincent Matthews",
-        "victimName": "Blas Bernardo Leroux",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/PSdecisionletter01-17-14Matthews.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0826851,
-          39.8628432
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/10/18",
-        "year": "2018",
-        "address": "92nd Avenue and Wadsworth Parkway",
-        "location": "Westminster",
-        "suburbCity": "Suburb",
-        "agency": "Northglenn Police",
-        "officerName": "Preston Young",
-        "victimName": "Brandon Vieweg",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/15560/18-002-WETAdams-Decision-Letter-Officer-Involved-Shooting-06-10-2018"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0430703,
-          39.6631421
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "5/20/17",
-        "year": "2017",
-        "address": "2873 S. Quitman St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Chad Kendall",
-        "victimName": "Brendan Gerwing",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2017/Decision-Letter-re-Officer-Involved-Shooting--May-20--2017.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0360231,
-          39.8201698
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/30/17",
-        "year": "2017",
-        "address": "3700 W. 68th Ave.",
-        "location": "Westminster",
-        "suburbCity": "Suburb",
-        "agency": "Westminster Police",
-        "officerName": "Roger Stockman, Scott Hopkins",
-        "victimName": "Brett Rodriguez",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2017/09/OIS-2017-06-30-Letter-2017-09-26.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9767715,
-          39.8559837
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "4/13/18",
-        "year": "2018",
-        "address": "800 block of East 88th Avenue",
-        "location": "Thornton",
-        "suburbCity": "Suburb",
-        "agency": "U.S. Marshal, ATF",
-        "officerName": "Special Agent Ryan McKone, Deputy U.S. Marshal Bryan Bailey",
-        "victimName": "Bruce Allee",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/09/OIS-2018-04-13-Letter-2018-09-20.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.834085,
-          39.975095
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "2/7/18",
-        "year": "2018",
-        "address": "744 Mockingbird St.",
-        "location": "Brighton",
-        "suburbCity": "Suburb",
-        "agency": "Brighton Police",
-        "officerName": "Sgt. Nicholas Struck",
-        "victimName": "Carlos Candelaria",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/05/OIS-2018-2-7-Letter-2018-5-17.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.980362,
-          39.7402208
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/13/18",
-        "year": "2018",
-        "address": "551 E. Colfax Ave.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Travis Lloyd",
-        "victimName": "Carnell Nelson",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2018/Decision-Letter-for-Officer-Involved-Shooting-Death-of-Carnell-Nelson-June-13-2018.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8851647,
-          39.7331053
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "12/21/15",
-        "year": "2015",
-        "address": "1103 Yosemite St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Aurora Police",
-        "officerName": "Teresa Fields, Josh Stuteville",
-        "victimName": "Chan Duol Lieth",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterFieldsStuteville-.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9034654,
-          39.7401987
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "4/25/18",
-        "year": "2018",
-        "address": "E. Colfax Avenue and Quebec Street",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Blake Bishop, Andrew Nielsen, Keith Valentine",
-        "victimName": "Charles Baxter Boeh",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/officer-involved-shooting-investigations-decision-letters/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8401948,
-          39.3688796
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "12/24/17",
-        "year": "2017",
-        "address": "1300 block of South Sierra Drive",
-        "location": "Castle Rock",
-        "suburbCity": "Suburb",
-        "agency": "Castle Rock Police",
-        "officerName": "Paul Smith",
-        "victimName": "Charles Rees",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2018/04/report-on-dec-24-2017-shooting-in-castle-rock/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9909815,
-          39.7461341
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "5/25/15",
-        "year": "2015",
-        "address": "17th Street and California Street",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Adam Foisy, Roman Yepishin",
-        "victimName": "Chisom Nwandilibe",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/Decision-Letter-Nwandilibe-7-31-2015.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9194281,
-          39.7814995
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "12/17/15",
-        "year": "2015",
-        "address": "4700 block of North Ivy Street",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Aurora Police",
-        "officerName": "David Musgrave",
-        "victimName": "Christopher Padilla",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "No",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterMusgrave.pdf"
       }
     },
     {
@@ -731,231 +1081,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.144016,
-          39.775489
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "10/6/17",
-        "year": "2017",
-        "address": "Intersection of Highway 58 and I-70",
-        "location": "Wheat Ridge",
-        "suburbCity": "Suburb",
-        "agency": "Colorado State Patrol",
-        "officerName": "John Stark",
-        "victimName": "Dale Sisson",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/11441/17-03-Decision-Letter-Officer-Involved-Shooting-10-06-2017"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0439379,
-          39.8299879
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "4/27/16",
-        "year": "2016",
-        "address": "7350 Tennyson St.",
-        "location": "Westminster",
-        "suburbCity": "Suburb",
-        "agency": "Westminster Police",
-        "officerName": "Roger Stockman, Rob Phelps, Matt Neihart, James Holley, Anthony Stroup",
-        "victimName": "Damon Blair",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2016/08/OIS-2016-04-27-Letter-2016-08-29.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9072439,
-          39.7641277
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "7/31/16",
-        "year": "2016",
-        "address": "3315 N. Olive St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Joseph Stadler",
-        "victimName": "Darius Ratcliff",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016letterStadler.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8632779,
-          39.681526
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "12/17/18",
-        "year": "2018",
-        "address": "10600 block of East Jewell Avenue",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Aurora Police",
-        "officerName": "3 officers",
-        "victimName": "David Baker, unknown (officer)",
-        "victimStatus": "Killed, wounded",
-        "statusMap": "Multiple",
-        "victimArmed": "",
-        "letterUrl": "https://www.denverpost.com/2018/12/18/aurora-violent-altercation-leaves-man-dead/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0650123,
-          39.7494355
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/21/16",
-        "year": "2016",
-        "address": "22nd Avenue and Jay Street",
-        "location": "Edgewater",
-        "suburbCity": "Suburb",
-        "agency": "Golden Police",
-        "officerName": "Aubin, Kloberdance,",
-        "victimName": "David Edward Little",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/8986/16-03-Decision-Letter-Officer-Involved-Shooting-06-21-2016"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9795699,
-          39.9026495
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "4/28/18",
-        "year": "2018",
-        "address": "530 Malley Drive",
-        "location": "Northglenn",
-        "suburbCity": "Suburb",
-        "agency": "Westminster Police",
-        "officerName": "Josh Verver, Chris Neal, Mark Cressman, Janay Hall",
-        "victimName": "David Navarro",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/07/OIS-2018-04-28-Letter-2018-07-27.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0091847,
-          39.6308788
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "5/12/17",
-        "year": "2017",
-        "address": "South Santa Fe Drive and East County Line Road",
-        "location": "Littleton",
-        "suburbCity": "Suburb",
-        "agency": "Douglas County Sheriff",
-        "officerName": "Bradley Proulx",
-        "victimName": "Deyon Rivas-Maestas",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2017/08/8142017-report-into-may-12-2017-officer-involved-shooting/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8219779,
-          39.740772
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "5/1/16",
-        "year": "2016",
-        "address": "14251 E. Colfax Ave.",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Aurora Police",
-        "officerName": "Alfred Eways",
-        "victimName": "Dillon Safford",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2016/10/OIS-2016-05-01-Letter-2016-10-07.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9902423,
-          39.7368631
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "4/12/16",
-        "year": "2016",
-        "address": "1300 block of Bannock Street",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Jeffrey Motz",
-        "victimName": "Dion Damon",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/Decision-letter-April-12-2016----DPD-Technician-Jeffrey-Motz-.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -105.0617006,
           39.8084891
         ]
@@ -974,156 +1099,6 @@
         "statusMap": "Killed",
         "victimArmed": "Yes",
         "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/donald-pooley.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8611275,
-          39.7281667
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "12/12/15",
-        "year": "2015",
-        "address": "796 N. Kenton St.",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Aurora Police",
-        "officerName": "Dale Leonard",
-        "victimName": "Efrain Villanueva",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2016/06/review-of-dec-12-2015-shooting-in-aurora/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0509127,
-          39.7765655
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "12/13/15",
-        "year": "2015",
-        "address": "West 44th Avenue and North Yates Street",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Mountain View Police",
-        "officerName": "Andrew Fulton",
-        "victimName": "Enrique Gonzalez",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterFulton.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.1111253,
-          39.7858904
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/14/18",
-        "year": "2018",
-        "address": "10100 W. 49th Ave.",
-        "location": "Arvada",
-        "suburbCity": "Suburb",
-        "agency": "Arvada Police",
-        "officerName": "Brandon Valdez",
-        "victimName": "Erick Michael DeLeon",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/15686/18-01-Decision-Letter-Officer-Involved-Shooting-01-14-2018"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.926137,
-          39.872926
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/21/18",
-        "year": "2018",
-        "address": "5276 Riverdale Way",
-        "location": "Adams County",
-        "suburbCity": "Suburb",
-        "agency": "Adams County Sheriff",
-        "officerName": "Lonn Trail, Benjamin Mainero",
-        "victimName": "Garron Torgerson, Lonn Trail (officer)",
-        "victimStatus": "Wounded, wounded",
-        "statusMap": "Multiple",
-        "victimArmed": "No",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/05/OIS-2018-01-21-Letter-2018-05-24.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.917938,
-          39.860835
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "9/22/17",
-        "year": "2017",
-        "address": "9001 Monaco St.",
-        "location": "Adams County",
-        "suburbCity": "Suburb",
-        "agency": "Adams County Sheriff",
-        "officerName": "Sgt. Ian Austin",
-        "victimName": "Gaston Dominguez-Dominguez",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2017/12/DOC122217-12222017135100.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0346296,
-          39.7657533
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "2/22/16",
-        "year": "2016",
-        "address": "3500 block Lowell Boulevard",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Rachel Eid, Michael Clark, Kevin Burke, Michelle Cooper",
-        "victimName": "Gerardino Cayetano-Gonzalez",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016letterEidClarkBurkeCooper.pdf"
       }
     },
     {
@@ -1156,81 +1131,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -105.0052912,
-          39.8900884
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/7/17",
-        "year": "2017",
-        "address": "10700 Pecos St.",
-        "location": "Northglenn",
-        "suburbCity": "Suburb",
-        "agency": "Northglenn Police",
-        "officerName": "Joshua Burke",
-        "victimName": "Hector Navarrette",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2017/07/OIS-2017-1-7-Letter-2017-4-21.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9980202,
-          39.6930768
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/9/17",
-        "year": "2017",
-        "address": "Louisiana Avenue and Inca Street",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "U.S. Immigration and Customs Enforcement",
-        "officerName": "Rueben Coray",
-        "victimName": "Hector Santana-Arreola",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2017/Santana-Arreola-Shooting-Decision-Letter.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.893834,
-          39.636226
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "11/9/14",
-        "year": "2014",
-        "address": "Tamarac Street exit from Interstate 225",
-        "location": "Arapahoe County",
-        "suburbCity": "Suburb",
-        "agency": "Arapahoe County Sheriff",
-        "officerName": "Robert Dahlberg",
-        "victimName": "Ian Santamaria",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/2014D-SDahlbergLet.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -105.1141326,
           39.8274076
         ]
@@ -1249,306 +1149,6 @@
         "statusMap": "Killed",
         "victimArmed": "Yes",
         "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/igor-skorev.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9039364,
-          39.7835158
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "2/21/17",
-        "year": "2017",
-        "address": "7203 E. 47th Ave",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Commerce City Police",
-        "officerName": "David Adams, Jonathan Brascetta",
-        "victimName": "Isaac Lesperance-Torres",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2017/Decision-letter-re-Officer-Involved-Shooting----February-21--2017.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.019854,
-          39.678169
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "5/14/14",
-        "year": "2014",
-        "address": "2100 S. Clay St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "John Sisneros",
-        "victimName": "Isaac Vigil",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/2014SisnerosLetter.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0204617,
-          39.8141083
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "7/28/18",
-        "year": "2018",
-        "address": "65th Avenue and Clay Street",
-        "location": "Adams County",
-        "suburbCity": "Suburb",
-        "agency": "Aurora Police",
-        "officerName": "Christopher Yarborough",
-        "victimName": "Isaiah Leyva",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/11/OIS-2018-07-28-Letter-2018-11-13.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8008972,
-          39.6852239
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/26/16",
-        "year": "2016",
-        "address": "East Montana Place and South Laredo Street",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Jefferson County Sheriff",
-        "officerName": "Jose Ramon Marquez",
-        "victimName": "Jahlil Meshesha, Jose Ramon Marquez",
-        "victimStatus": "Wounded, wounded",
-        "statusMap": "Multiple",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2016/07/report-of-shooting-by-off-duty-jeffco-deputy-in-aurora/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9915058,
-          39.7514325
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/12/16",
-        "year": "2016",
-        "address": "1955 Arapahoe St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Theodore Maher, Joseph Duncan, Christopher Fayles",
-        "victimName": "James Bronish",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016letterDuncanFayles.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8885437,
-          39.5813585
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "5/31/17",
-        "year": "2017",
-        "address": "8621 E. Dry Creek Road",
-        "location": "Centennial",
-        "suburbCity": "Suburb",
-        "agency": "Arapahoe County Sheriff",
-        "officerName": "Robert Knudson",
-        "victimName": "James Hill",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2017/12/report-on-may-31-2017-shooting-in-centennial/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9762724,
-          39.8944915
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "5/28/15",
-        "year": "2015",
-        "address": "10909 E. 109th Place",
-        "location": "Northglenn",
-        "suburbCity": "Suburb",
-        "agency": "Northglenn Police, Thornton Police",
-        "officerName": "Nicholas Wilson (Northglenn), Jason Schlenker (Thornton)",
-        "victimName": "James Strong, Nicholas Wilson (officer)",
-        "victimStatus": "Killed, wounded",
-        "statusMap": "Multiple",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2015/08/OIS-2015-05-28-Letter-2015-08-14.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9859668,
-          39.8801533
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/11/18",
-        "year": "2018",
-        "address": "10003 Grant St.",
-        "location": "Thornton",
-        "suburbCity": "Suburb",
-        "agency": "Thornton Police",
-        "officerName": "Oscar Hernandez",
-        "victimName": "James Warnock",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "No",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/03/OIS-2018-01-11-Letter-2018-03-23.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.827227,
-          39.972302
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "11/10/15",
-        "year": "2015",
-        "address": "U.S. 85 near Bromley Lane",
-        "location": "Brighton",
-        "suburbCity": "Suburb",
-        "agency": "Longmont Police, Adams County Sheriff, Colorado State Patrol",
-        "officerName": "Gilbert Abdullah (Adams), Walter Berlinski (Adams), Nathan Parks (CSP), Robert Buswold (Longmont)",
-        "victimName": "Jason Mesaros",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2016/02/OIS-2015-11-10-Letter-2016-02-18.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0249131,
-          39.7682981
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "12/8/15",
-        "year": "2015",
-        "address": "3700 N. Federal Blvd.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Antonio Lopez",
-        "victimName": "Jason Wood",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/Decision-Letter-2015---3755-N-Federal.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.1005206,
-          39.8049568
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "7/18/17",
-        "year": "2017",
-        "address": "5955 Garrison St.",
-        "location": "Arvada",
-        "suburbCity": "Suburb",
-        "agency": "Jefferson County Sheriff",
-        "officerName": "Erik Baughman",
-        "victimName": "Jeffrey Snyder",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/10222/17-01-Decision-Letter-Officer-Involved-Shooting-07-18-2017"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8652551,
-          39.7934522
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "5/16/14",
-        "year": "2014",
-        "address": "10500 E. 54th Ave.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Aurora Police",
-        "officerName": "Randy Carroll",
-        "victimName": "Jeffrey Strouse",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "No",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/Decision-Letter-re-5-16-2014-Officer-Involved-Shooting----Aurora-Police-Officer-Randy-Carroll-.pdf"
       }
     },
     {
@@ -1581,1431 +1181,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.9678404,
-          39.8858094
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "12/13/17",
-        "year": "2017",
-        "address": "10445 Franklin Way",
-        "location": "Northglenn",
-        "suburbCity": "Suburb",
-        "agency": "Northglenn Police",
-        "officerName": "Nathan Galluzzo, Zachery Schieferecke, Emil Czernicki",
-        "victimName": "Jeremy Patscheck, Serina Minella",
-        "victimStatus": "Killed, wounded",
-        "statusMap": "Multiple",
-        "victimArmed": "No",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/07/OIS-2017-12-13-Letter-2018-07-20.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9090687,
-          39.7535722
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/26/15",
-        "year": "2015",
-        "address": "2500 Newport St",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Gabriel Jordan, Danial Greene",
-        "victimName": "Jessica Hernandez",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterJordanandGreene.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9222308,
-          39.7983397
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "11/20/14",
-        "year": "2014",
-        "address": "East 56th Avenue and North Holly Street",
-        "location": "Commerce City",
-        "suburbCity": "Suburb",
-        "agency": "Denver Police",
-        "officerName": "Martin Tritschler (DPD)",
-        "victimName": "Joel and Carlos Jurado",
-        "victimStatus": "Wounded, wounded",
-        "statusMap": "Multiple",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2015/02/November-20-2014-officer-involved-shooting-decision-letter.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.884184,
-          39.739753
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/27/18",
-        "year": "2018",
-        "address": "8900 E. Colfax Ave.",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Aurora Police",
-        "officerName": "Drew Limbaugh",
-        "victimName": "Joey Bronson",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2018/08/report-on-june-27-2018-shooting-in-aurora/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.99177,
-          39.7445633
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "11/10/17",
-        "year": "2017",
-        "address": "600 16th St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Brent Cairns",
-        "victimName": "John Bazemore",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/officer-involved-shooting-investigations-decision-letters/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8766681,
-          39.7693259
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "3/20/15",
-        "year": "2015",
-        "address": "7800 E. Smith Road",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Armando Cruz",
-        "victimName": "John Thomas Clark",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "No",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterCruz.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8446871,
-          39.7413823
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "3/19/14",
-        "year": "2014",
-        "address": "East 16th Avenue and Quentin Street",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "University of Colorado-Denver Police",
-        "officerName": "Sgt. John Hughes",
-        "victimName": "Joseph Gorden",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2014/06/Decision-letter-in-officer-involved-shooting-March-19-2014.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0041816,
-          39.9408274
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "5/9/17",
-        "year": "2017",
-        "address": "1318 W. 135th Ave.",
-        "location": "Westminster",
-        "suburbCity": "Suburb",
-        "agency": "Westminster Police",
-        "officerName": "David Galbraith, Mike Catalano, Sgt. Jason Poppenger, Drew Smith",
-        "victimName": "Joseph Jaster, Sgt. Brian Hempelman (officer)",
-        "victimStatus": "Killed, wounded",
-        "statusMap": "Multiple",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2017/09/OIS-2017-05-09-Letter-2017-09-15.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0005825,
-          39.6892662
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "7/2/14",
-        "year": "2014",
-        "address": "1075 W. Florida Ave.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Justin Dodge",
-        "victimName": "Joseph Valverder",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/Decision-Letter-08-29-2014.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0083406,
-          39.8519089
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "7/4/17",
-        "year": "2017",
-        "address": "1800 block of West 85th Avenue",
-        "location": "Federal Heights",
-        "suburbCity": "Suburb",
-        "agency": "Federal Heights Police",
-        "officerName": "Sgt. Jon Hess",
-        "victimName": "Juan Manriquez",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2017/10/OIS-2017-07-04-Letter-2017-10-12.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8220007,
-          39.7787566
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "11/8/16",
-        "year": "2016",
-        "address": "14572 E. 46th Ave.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police, Aurora Police",
-        "officerName": "Cassidee Carlson, Steven Edwards, Jimmy Sheppard",
-        "victimName": "Juan Ramos",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/Decision-letter-re-Officer-Involved-Shooting--May-9--2017.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.7723515,
-          39.7257158
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/15/15",
-        "year": "2015",
-        "address": "600 Tower Road",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Aurora Police",
-        "officerName": "Dominic Marziano, Michael Tilton, Eric Waters",
-        "victimName": "Kavonda Payton",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2016/04/report-on-nov-20-2015-shooting-in-aurora/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.7795068,
-          39.7030053
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/18/17",
-        "year": "2017",
-        "address": "East Alameda Avenue and East Ohio Avenue",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Denver Police",
-        "officerName": "Christopher Baird, Cpl. Joey Gasca",
-        "victimName": "Keith Roberts",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2017/09/report-on-june-18-2017-shooting-in-aurora/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.997198,
-          39.7453453
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "7/10/16",
-        "year": "2016",
-        "address": "14th Street and Curtis Street",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Randall Wagner",
-        "victimName": "Kevin Jones, Robert Jones",
-        "victimStatus": "Wounded, wounded",
-        "statusMap": "Multiple",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016-14th-&-Curtis.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.96568,
-          39.855799
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "12/7/17",
-        "year": "2017",
-        "address": "8770 Gaylen Court",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Adams County Sheriff",
-        "officerName": "Wilfred Europe",
-        "victimName": "Kyle Grabbingbear",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/04/OIS-2017-12-7-Letter-2018-4-13.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.927673,
-          39.756682
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "8/22/15",
-        "year": "2015",
-        "address": "Alley between 2800 block Fairfax Street and Forest Street",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Jon Crowe, Jimmy Sheppard",
-        "victimName": "Kylear Antonio Williams",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/Decision-Letter-regarding-Officer-involved-shooting----August-22-2015----DPD-Det.-Jon-Crowe-and-Officer-Jimmy-Sheppard-.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8376183,
-          39.5799581
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "10/29/17",
-        "year": "2017",
-        "address": "13101 E. Broncos Pkwy.",
-        "location": "Centennial",
-        "suburbCity": "Suburb",
-        "agency": "Arapahoe County Sheriff",
-        "officerName": "Matthew Schambow, Buddy Gillespie",
-        "victimName": "Mark Bidon",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2017/12/report-on-oct-29-2017-shooting-in-centennial/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9491766,
-          39.565952
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "12/31/17",
-        "year": "2017",
-        "address": "3404 County Line Road",
-        "location": "Highlands Ranch",
-        "suburbCity": "Suburb",
-        "agency": "Douglas County Sheriff, Arapahoe County Sheriff, Parker Police",
-        "officerName": "George Lekander, Nicole Holiday, Jonathan Stauffer, Deputy Doremus, Deputy Nathan West, Sgt. Jeff Engel, Sgt. Darren Trujillo, Officer Dorrell, Deputy Friesen, Officer Holmes, Sgt. Schuster",
-        "victimName": "Matthew Riehl, Deputy Zackari Parrish (officer); deputies Michael Doyle, Taylor Davis, Jeffrey Pelle; officer Tom O'Donnell; two civilians",
-        "victimStatus": "Killed, killed, all others wounded",
-        "statusMap": "Multiple",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2018/07/report-on-dec-31-2017-shooting-in-douglas-county/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0423398,
-          39.7147804
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "11/25/17",
-        "year": "2017",
-        "address": "101 S. Raleigh St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Mark Hillers",
-        "victimName": "Mauricio Venzor-Gonzalez",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/officer-involved-shooting-investigations-decision-letters/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.018626,
-          39.663302
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "8/31/16",
-        "year": "2016",
-        "address": "2600 block West Bates Avenue",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Sean Cronin",
-        "victimName": "Michael Ferguson",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016-West-Bates.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0544629,
-          39.9122195
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "8/2/18",
-        "year": "2018",
-        "address": "11875 Sheridan Blvd.",
-        "location": "Westminster",
-        "suburbCity": "Suburb",
-        "agency": "Westminster Police",
-        "officerName": "Anthony Guzman",
-        "victimName": "Michael Gonzales",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/12/Decision-letter-OIS-August-2-2018.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9902505,
-          39.6642301
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "3/3/17",
-        "year": "2017",
-        "address": "2895 S. Bannock St.",
-        "location": "Englewood",
-        "suburbCity": "Suburb",
-        "agency": "Englewood Police",
-        "officerName": "Ryan Kaspar",
-        "victimName": "Michael Kocher",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2017/05/5152017-report-on-march-3-2017-shooting-in-englewood/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.7767526,
-          39.5218981
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "11/4/17",
-        "year": "2017",
-        "address": "10823 Twenty Mile Road",
-        "location": "Parker",
-        "suburbCity": "Suburb",
-        "agency": "Parker Police",
-        "officerName": "Gregory Moreno, Bradford Bankston, Eric Graham",
-        "victimName": "Michael Marin",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2018/03/report-on-nov-4-2017-shooting-in-parker/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8742933,
-          39.7551716
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/8/15",
-        "year": "2015",
-        "address": "2014 N. Emporia St.",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Colorado Department of Corrections",
-        "officerName": "Laurie Strong",
-        "victimName": "Michael Meeks",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2015/07/OIS-Letter-7-8-15.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0194786,
-          39.7715223
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "12/12/14",
-        "year": "2014",
-        "address": "2614 W. 40th Ave.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Thornton Police",
-        "officerName": "Brent Mullen",
-        "victimName": "Michael Robbins",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/Decision-Letter-02-11-2015-re-Officer-Mullen.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0171833,
-          39.710616
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "11/22/15",
-        "year": "2015",
-        "address": "305 S. Alcott St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Frederick Jones, Jesse Rembert",
-        "victimName": "Miguel Martinez",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/Decision-Letter-2015-South-Alcott.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.7994338,
-          39.7354973
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "3/6/15",
-        "year": "2015",
-        "address": "16200 E. 12th Ave.",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Aurora Police",
-        "officerName": "Paul Jerothe",
-        "victimName": "Naeschylus Vinzant",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "https://www.denverpost.com/2015/12/30/no-indictment-of-aurora-police-officer-in-slaying-of-unarmed-black-man/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8239852,
-          39.6781055
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "5/15/16",
-        "year": "2016",
-        "address": "South Blackhawk Street and East Evans Avenue",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Aurora Police",
-        "officerName": "Barry Gomez",
-        "victimName": "Natnael Gebretsadik",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2017/02/report-on-may-15-2016-shooting-in-aurora/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0541889,
-          39.8531005
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/16/16",
-        "year": "2016",
-        "address": "8601 Sheridan Blvd.",
-        "location": "Westminster",
-        "suburbCity": "Suburb",
-        "agency": "Westminster Police, Aurora Police",
-        "officerName": "Unnamed",
-        "victimName": "Nicholas Damon",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/8987/16-02-Decision-Letter-Officer-Involved-Shooting-06-16-2016"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8787103,
-          39.5811214
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "11/27/18",
-        "year": "2018",
-        "address": "Interstate 25 and Dry Creek Road",
-        "location": "Centennial",
-        "suburbCity": "Suburb",
-        "agency": "Douglas County Sheriff",
-        "officerName": "Nicholas Arnone, Anthony Weiss, Joshua Anderson, Justin Ruisi, Blake Davis",
-        "victimName": "Nicholas Ryan, Jason Sutton",
-        "victimStatus": "Killed, wounded",
-        "statusMap": "Multiple",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2019/04/report-on-nov-27-2018-shooting-in-centennial/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8665948,
-          39.69905
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/3/15",
-        "year": "2015",
-        "address": "955 S. Havana St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Aurora Police",
-        "officerName": "Jeffrey Olson",
-        "victimName": "Omari Cook-Nunn",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/Decision-letter-regarding-Officer-involved-shooting----January-3-2015----Aurora-Police-Officer-Jeffrey-Olson-.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.958904,
-          39.4383632
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "8/31/18",
-        "year": "2018",
-        "address": "U.S. 85 near Delva Way",
-        "location": "Douglas County",
-        "suburbCity": "Suburb",
-        "agency": "Douglas County Sheriff",
-        "officerName": "Gage Walpole, Larry Arguello, Joe Pollack",
-        "victimName": "Paul Askins",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2019/01/report-on-aug-31-2018-shooting-in-douglas-county/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.045326,
-          39.700756
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "7/12/15",
-        "year": "2015",
-        "address": "4501 W. Kentucky Ave.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Michael Traudt",
-        "victimName": "Paul Castaway",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/Decision-Letter-re-shooting-death-of-Paul-Castaway.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.7942576,
-          39.6562948
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/6/14",
-        "year": "2014",
-        "address": "3358 S. Nucla Way",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Aurora Police",
-        "officerName": "Erick Ortiz",
-        "victimName": "Paul L’Herault",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "No letter"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0537779,
-          39.7180938
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "8/13/16",
-        "year": "2016",
-        "address": "95 Sheridan Blvd.",
-        "location": "Lakewood",
-        "suburbCity": "Suburb",
-        "agency": "Lakewood Police",
-        "officerName": "Sean Radke",
-        "victimName": "Perry Heitman",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/8985/16-04-Decision-Letter-Officer-Involved-Shooting-08-13-2016"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9349079,
-          39.675555
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "2/13/18",
-        "year": "2018",
-        "address": "2250 S. Clermont St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Tom Weis",
-        "victimName": "Peter Le",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2018/Decision-Letter-for-Officer-Involved-Shooting-Death-of-Peter-Le-Feb-13-2018.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0355366,
-          39.7545041
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "12/2/15",
-        "year": "2015",
-        "address": "2530 N. Meade St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "James Bradley, Brett Titus",
-        "victimName": "Phillip Munoz",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterBradleyTitus.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0393957,
-          39.957167
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "9/11/15",
-        "year": "2015",
-        "address": "4036 W. 144th Ave.",
-        "location": "Broomfield",
-        "suburbCity": "Suburb",
-        "agency": "Broomfield Police",
-        "officerName": "Joel Waight",
-        "victimName": "Phillip Pfleghardt",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2015/11/OIS-2015-09-11-Letter-2015-11-09.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0067064,
-          39.8510408
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/26/14",
-        "year": "2014",
-        "address": "8495 Pecos St.",
-        "location": "Federal Heights",
-        "suburbCity": "Suburb",
-        "agency": "Federal Heights Police",
-        "officerName": "Rick Lahr",
-        "victimName": "Pierree Davis",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2015/03/OIS-January-26-2014.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0174115,
-          39.7554397
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/11/16",
-        "year": "2016",
-        "address": "2601 Zuni St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Kenneth Manzanares, John Mehrtens",
-        "victimName": "Ramone Lonergan",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016letterManzanaresMehrtens.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.7643544,
-          39.5514138
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "9/2/16",
-        "year": "2016",
-        "address": "12947 N. Dixon Drive",
-        "location": "Parker",
-        "suburbCity": "Suburb",
-        "agency": "Douglas County Sheriff, Castle Rock Police, Parker Police",
-        "officerName": "Joe Pollack (DCSO), Brian Rademacher (DCSO), Dan Brite (DCSO), Mark Galvan (Castle Rock), Ronnie Dorrell (Parker PD)",
-        "victimName": "Randy Rodick, Dan Brite (officer)",
-        "victimStatus": "Killed, wounded",
-        "statusMap": "Multiple",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2016/10/report-on-sept-2-2016-shooting/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8641376,
-          39.7477866
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "7/30/18",
-        "year": "2018",
-        "address": "10609 E. Motview Blvd.",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Aurora Police",
-        "officerName": "Drew Limbaugh",
-        "victimName": "Richard \"Gary\" Black",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/12/OIS-2018-07-30-Letter-2018-12-03.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9968538,
-          39.9402627
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/10/15",
-        "year": "2015",
-        "address": "1100 block of Huron Street",
-        "location": "Northglenn",
-        "suburbCity": "Suburb",
-        "agency": "Northglenn Police",
-        "officerName": "Jeramie Lund, Matthew Hindman",
-        "victimName": "Rickie Pacheco Jr.",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2015/10/OIS-2015-06-10-Letter-2015-10-09.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0802646,
-          39.7233319
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "5/26/16",
-        "year": "2016",
-        "address": "480 Wadsworth Blvd.",
-        "location": "Lakewood",
-        "suburbCity": "Suburb",
-        "agency": "Lakewood Police",
-        "officerName": "Unnamed",
-        "victimName": "Robin Barber",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/8988/16-01-Decision-Letter-Officer-Involved-Shooting-04-26-2016"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.061182,
-          39.863082
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/26/18",
-        "year": "2018",
-        "address": "92nd Avenue and Fenton Street",
-        "location": "Westminster",
-        "suburbCity": "Suburb",
-        "agency": "Westminster Police",
-        "officerName": "Unnamed",
-        "victimName": "Ronald Romero",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/15550/18-001-WETAdams-Decision-Letter-Officer-Involved-Shooting-07-26-2018"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.279383,
-          39.740594
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "11/4/18",
-        "year": "2018",
-        "address": "Mile marker 267 Highway 6",
-        "location": "Jefferson County",
-        "suburbCity": "Suburb",
-        "agency": "Jefferson County Sheriff, Colorado State Patrol",
-        "officerName": "Vincent Alonso, Gregario Retana",
-        "victimName": "Ryan Millsap",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/16626/18-04-Decision-Letter-Officer-Involved-Shooting-11-04-2018"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0107236,
-          39.7830256
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "7/2/14",
-        "year": "2014",
-        "address": "4750 Tejon St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Jeffrey DiManna, Brian Marshall, Toni Trujillo, Daniel White",
-        "victimName": "Ryan Ronquillo",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "No",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/2014-4750TejonLet.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9331086,
-          39.8001071
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/13/14",
-        "year": "2014",
-        "address": "I-270, east of the Platte River",
-        "location": "Commerce City",
-        "suburbCity": "Suburb",
-        "agency": "Colorado State Patrol, Commerce City Police, Adams County Sheriff",
-        "officerName": "David Coleman (Commerce City), Skyler Vonfeldt (Adams)",
-        "victimName": "Ryan Schenk",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2014/04/Officer-involved-shooting-January-14-2014.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8595996,
-          39.7798618
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "9/8/17",
-        "year": "2017",
-        "address": "4525 Kingston St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Sergey Gurevich",
-        "victimName": "Sergio Casimiro-Mejia",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2017/Decision-letter-re-Officer-Involved-Shooting--September-8--2017.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9850553,
-          39.8543785
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "3/23/16",
-        "year": "2016",
-        "address": "8703 Grant St.",
-        "location": "Thornton",
-        "suburbCity": "Suburb",
-        "agency": "Thornton Police",
-        "officerName": "Sgt. Pat Long, Anthony Jenkins, John Martinez",
-        "victimName": "Sgt. Pat Long, Daven Hannu",
-        "victimStatus": "Wounded, killed",
-        "statusMap": "Multiple",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2016/06/OIS-2016-03-23-Letter-2016-06-22.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8287948,
-          39.7882266
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "1/9/15",
-        "year": "2015",
-        "address": "5081 Crown Blvd.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Jeffrey DiManna",
-        "victimName": "Sharod Kindell",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "No",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterDiManna.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.8897263,
-          39.7404271
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "5/9/16",
-        "year": "2016",
-        "address": "8415 East Colfax Ave.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Aurora Police",
-        "officerName": "Stephen Redfearn",
-        "victimName": "Sidney Sylvester",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016letterRedfearnAurora.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9901948,
-          39.6930312
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "6/30/17",
-        "year": "2017",
-        "address": "West Lousiana Avenue and South Bannock Street",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Littleton Police, Englewood Police",
-        "officerName": "Brian Martinez, Anthony Guzman, Luke McGrath, Joseph Carns",
-        "victimName": "Stephanie Lopez, Marta Sanchez",
-        "victimStatus": "Killed, wounded",
-        "statusMap": "Multiple",
-        "victimArmed": "No",
-        "letterUrl": "https://www.denverda.org/officer-involved-shooting-investigations-decision-letters/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.7347089,
-          39.5761803
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "5/11/16",
-        "year": "2016",
-        "address": "South Aurora Parkway and South Quemoy Way",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Aurora Police",
-        "officerName": "Sgt. Tyler Reissland, Peter Benda, Jose Ortiz, Cody Jones",
-        "victimName": "Stephen Schuster",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2016/12/report-on-may-11-2016-shooting/"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9378421,
-          39.7744553
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "3/19/18",
-        "year": "2018",
-        "address": "4100 block of Albion Street",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "William Bohm, Austin Barela, Susan Mercado",
-        "victimName": "Steven Lee Nguyen, Rafael Landeros",
-        "victimStatus": "Killed, wounded",
-        "statusMap": "Multiple",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2018/Decision-Letter-OIS-S.-Nguyen-March-19-2018.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9949064,
-          39.7167814
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "8/27/16",
-        "year": "2016",
-        "address": "8 N. Fox St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police",
-        "officerName": "Antony Gutierrez-McKain",
-        "victimName": "Terry Lee Salazar",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016letterGutierrezMcKain.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.9907425,
-          39.9167259
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "9/20/16",
-        "year": "2016",
-        "address": "12170 Bannock St.",
-        "location": "Westminster",
-        "suburbCity": "Suburb",
-        "agency": "Westminster Police",
-        "officerName": "Anthony Stroup, Damian Perez",
-        "victimName": "Thomas Tucker",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2016/12/OIS-2016-09-20-Letter-2016-12-09.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -105.0309946,
           39.8728506
         ]
@@ -3024,56 +1199,6 @@
         "statusMap": "Killed",
         "victimArmed": "Yes",
         "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/timmy-henley.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.0048576,
-          39.8374671
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "9/27/17",
-        "year": "2017",
-        "address": "7762 Osage St.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Adams County Sheriff",
-        "officerName": "Dustin Ball, Sgt. Chris Eye, Lance Kestel",
-        "victimName": "Troy Coen",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/02/OIS-2017-9-27-Letter-2018-2-6.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -104.7984491,
-          39.6284217
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "2/10/18",
-        "year": "2018",
-        "address": "East Smoky Hill Road and South Mobile Way",
-        "location": "Aurora",
-        "suburbCity": "Aurora",
-        "agency": "Aurora Police",
-        "officerName": "Chad Warner",
-        "victimName": "Troy Jacques",
-        "victimStatus": "Killed",
-        "statusMap": "Killed",
-        "victimArmed": "Yes",
-        "letterUrl": "http://www.da18.org/2018/08/report-on-feb-10-2018-shooting-in-aurora/"
       }
     },
     {
@@ -3106,49 +1231,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.8099325,
-          39.7594178
+          -104.7723515,
+          39.7257158
         ]
       },
       "properties": {
         "button": "",
-        "date": "4/9/18",
-        "year": "2018",
-        "address": "Chamber Road and Smith Road",
+        "date": "1/15/15",
+        "year": "2015",
+        "address": "600 Tower Road",
         "location": "Aurora",
         "suburbCity": "Aurora",
         "agency": "Aurora Police",
-        "officerName": "Michael Dieck",
-        "victimName": "Tyrell Tyrone Jones",
-        "victimStatus": "Wounded",
-        "statusMap": "Wounded",
-        "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2018/07/OIS-2018-04-09-Letter-2018-07-02-1.pdf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -105.054372,
-          39.7367406
-        ]
-      },
-      "properties": {
-        "button": "",
-        "date": "11/28/18",
-        "year": "2018",
-        "address": "13th Street and Ames Avenue",
-        "location": "Lakewood",
-        "suburbCity": "Suburb",
-        "agency": "Lakewood Police",
-        "officerName": "Multiple officers",
-        "victimName": "Unnamed",
+        "officerName": "Dominic Marziano, Michael Tilton, Eric Waters",
+        "victimName": "Kavonda Payton",
         "victimStatus": "Killed",
         "statusMap": "Killed",
         "victimArmed": "Yes",
-        "letterUrl": "https://www.denverpost.com/2018/11/28/lakewood-police-o"
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/kavonda-payton.pdf"
       }
     },
     {
@@ -3156,24 +1256,499 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.8761832,
-          39.594941
+          -104.8611275,
+          39.7281667
         ]
       },
       "properties": {
         "button": "",
-        "date": "11/15/18",
-        "year": "2018",
-        "address": "Arapahoe Road and Dayton Street",
-        "location": "Greenwood Village",
+        "date": "12/12/15",
+        "year": "2015",
+        "address": "796 N. Kenton St.",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Aurora Police",
+        "officerName": "Dale Leonard",
+        "victimName": "Efrain Villanueva",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/efrain-villanueva.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8008972,
+          39.6852239
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "1/26/16",
+        "year": "2016",
+        "address": "East Montana Place and South Laredo Street",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Jefferson County Sheriff",
+        "officerName": "Jose Ramon Marquez",
+        "victimName": "Jahlil Meshesha, Jose Ramon Marquez",
+        "victimStatus": "Wounded, wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/jahlil-meshesha.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7643544,
+          39.5514138
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "9/2/16",
+        "year": "2016",
+        "address": "12947 N. Dixon Drive",
+        "location": "Parker",
         "suburbCity": "Suburb",
-        "agency": "Arapahoe County Sheriff",
-        "officerName": "3 deputies",
-        "victimName": "Unnamed, unnamed (officer)",
+        "agency": "Douglas County Sheriff, Castle Rock Police, Parker Police",
+        "officerName": "Joe Pollack (Douglas County), Brian Rademacher (Douglas County), Dan Brite (Douglas County), Mark Galvan (Castle Rock), Ronnie Dorrell (Parker)",
+        "victimName": "Randy Rodick, Dan Brite (officer)",
         "victimStatus": "Killed, wounded",
         "statusMap": "Multiple",
-        "victimArmed": "",
-        "letterUrl": "https://www.denverpost.com/2018/11/15/officer-involved-shooting-aurora-arapahoe/"
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/randy-rodick.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7347089,
+          39.5761803
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "5/11/16",
+        "year": "2016",
+        "address": "South Aurora Parkway and South Quemoy Way",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Aurora Police",
+        "officerName": "Sgt. Tyler Reissland, Peter Benda, Jose Ortiz, Cody Jones",
+        "victimName": "Steven Schuster",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/steven-schuster.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8239852,
+          39.6781055
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "5/15/16",
+        "year": "2016",
+        "address": "South Blackhawk Street and East Evans Avenue",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Aurora Police",
+        "officerName": "Barry Gomez",
+        "victimName": "Natnael Gebretsadik",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/natnael-gebretsadik.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9902505,
+          39.6642301
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "3/3/17",
+        "year": "2017",
+        "address": "2895 S. Bannock St.",
+        "location": "Englewood",
+        "suburbCity": "Suburb",
+        "agency": "Englewood Police",
+        "officerName": "Ryan Kaspar",
+        "victimName": "Michael Kocher",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/michael-kocher.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0091847,
+          39.6308788
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "5/12/17",
+        "year": "2017",
+        "address": "South Santa Fe Drive and East County Line Road",
+        "location": "Littleton",
+        "suburbCity": "Suburb",
+        "agency": "Douglas County Sheriff",
+        "officerName": "Bradley Proulx",
+        "victimName": "Deyon Rivas-Maestas",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/deyon-rivas-maestas.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7795068,
+          39.7030053
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "6/18/17",
+        "year": "2017",
+        "address": "East Alameda Avenue and East Ohio Avenue",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Denver Police",
+        "officerName": "Christopher Baird, Cpl. Joey Gasca",
+        "victimName": "Keith Roberts",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/keith-roberts.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8885437,
+          39.5813585
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "5/31/17",
+        "year": "2017",
+        "address": "8621 E. Dry Creek Road",
+        "location": "Centennial",
+        "suburbCity": "Suburb",
+        "agency": "Arapahoe County Sheriff",
+        "officerName": "Robert Knudson",
+        "victimName": "James Hill",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/james-hill.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8376183,
+          39.5799581
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "10/29/17",
+        "year": "2017",
+        "address": "13101 E. Broncos Pkwy.",
+        "location": "Centennial",
+        "suburbCity": "Suburb",
+        "agency": "Arapahoe County Sheriff",
+        "officerName": "Matthew Schambow, Buddy Gillespie",
+        "victimName": "Mark Bidon",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/mark-bidon.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7767526,
+          39.5218981
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "11/4/17",
+        "year": "2017",
+        "address": "10823 Twenty Mile Road",
+        "location": "Parker",
+        "suburbCity": "Suburb",
+        "agency": "Parker Police",
+        "officerName": "Gregory Moreno, Bradford Bankston, Eric Graham",
+        "victimName": "Michael Marin",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/michael-marin.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8401948,
+          39.3688796
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "12/24/17",
+        "year": "2017",
+        "address": "1300 block of South Sierra Drive",
+        "location": "Castle Rock",
+        "suburbCity": "Suburb",
+        "agency": "Castle Rock Police",
+        "officerName": "Paul Smith",
+        "victimName": "Charles Rees",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/charles-rees.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9491766,
+          39.565952
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "12/31/17",
+        "year": "2017",
+        "address": "3404 County Line Road",
+        "location": "Highlands Ranch",
+        "suburbCity": "Suburb",
+        "agency": "Douglas County Sheriff, Arapahoe County Sheriff, Parker Police",
+        "officerName": "George Lekander, Nicole Holiday, Jonathan Stauffer, Deputy Doremus, Deputy Nathan West, Sgt. Jeff Engel, Sgt. Darren Trujillo, Officer Dorrell, Deputy Friesen, Officer Holmes, Sgt. Schuster",
+        "victimName": "Matthew Riehl, Deputy Zackari Parrish (officer); deputies Michael Doyle, Taylor Davis, Jeffrey Pelle; officer Tom O'Donnell; two civilians",
+        "victimStatus": "Killed, killed, all others wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/matthew-riehl.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7984491,
+          39.6284217
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "2/10/18",
+        "year": "2018",
+        "address": "East Smoky Hill Road and South Mobile Way",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Aurora Police",
+        "officerName": "Chad Warner",
+        "victimName": "Troy Jacques",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/troy-jacques.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.884184,
+          39.739753
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "6/27/18",
+        "year": "2018",
+        "address": "8900 E. Colfax Ave.",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Aurora Police",
+        "officerName": "Drew Limbaugh",
+        "victimName": "Joey Bronson",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/joey-bronson.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.958904,
+          39.4383632
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "8/31/18",
+        "year": "2018",
+        "address": "U.S. 85 near Delva Way",
+        "location": "Douglas County",
+        "suburbCity": "Suburb",
+        "agency": "Douglas County Sheriff",
+        "officerName": "Gage Walpole, Larry Arguello, Joe Pollack",
+        "victimName": "Paul Askins",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/paul-askins.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8787103,
+          39.5811214
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "11/27/18",
+        "year": "2018",
+        "address": "Interstate 25 and Dry Creek Road",
+        "location": "Centennial",
+        "suburbCity": "Suburb",
+        "agency": "Douglas County Sheriff",
+        "officerName": "Nicholas Arnone, Anthony Weiss, Joshua Anderson, Justin Ruisi, Blake Davis",
+        "victimName": "Nicholas Ryan, Jason Sutton",
+        "victimStatus": "Killed, wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/nicholas-ryan.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9901948,
+          39.6930312
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "6/30/17",
+        "year": "2017",
+        "address": "West Lousiana Avenue and South Bannock Street",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Littleton Police, Englewood Police",
+        "officerName": "Brian Martinez (Englewood), Anthony Guzman (Littleton), Luke McGrath (Littleton), Joseph Carns (Littleton)",
+        "victimName": "Stephanie Lopez, Marta Sanchez",
+        "victimStatus": "Killed, wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "No",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/stephanie-lopez.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.99177,
+          39.7445633
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "11/10/17",
+        "year": "2017",
+        "address": "600 16th St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Brent Cairns",
+        "victimName": "John Bazemore",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/john-bazemore.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0423398,
+          39.7147804
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "11/25/17",
+        "year": "2017",
+        "address": "101 S. Raleigh St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Mark Hillers",
+        "victimName": "Mauricio Venzor-Gonzalez",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/mauricio-venzor-gonzalez.pdf"
       }
     },
     {
@@ -3198,7 +1773,707 @@
         "victimStatus": "Wounded",
         "statusMap": "Wounded",
         "victimArmed": "Yes",
-        "letterUrl": "https://www.denverda.org/officer-involved-shooting-investigations-decision-letters/"
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/unnamed-juvenile.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0172089,
+          39.682888
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "2/6/18",
+        "year": "2018",
+        "address": "1873 S. Alcott St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "John Albergotti",
+        "victimName": "Alex Duran",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/alex-duran.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9034654,
+          39.7401987
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "4/25/18",
+        "year": "2018",
+        "address": "E. Colfax Avenue and Quebec Street",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Blake Bishop, Andrew Nielsen, Keith Valentine",
+        "victimName": "Charles Baxter Boeh",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "http://extras.denverpost.com/projects/2019/officer-involved-shootings/decision-letters/charles-boeh.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0107236,
+          39.7830256
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "7/2/14",
+        "year": "2014",
+        "address": "4750 Tejon St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Jeffrey DiManna, Brian Marshall, Toni Trujillo, Daniel White",
+        "victimName": "Ryan Ronquillo",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/2014-4750TejonLet.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.893834,
+          39.636226
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "11/9/14",
+        "year": "2014",
+        "address": "Tamarac Street exit from Interstate 225",
+        "location": "Arapahoe County",
+        "suburbCity": "Suburb",
+        "agency": "Arapahoe County Sheriff",
+        "officerName": "Robert Dahlberg",
+        "victimName": "Ian Santamaria",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/2014D-SDahlbergLet.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.019854,
+          39.678169
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "5/14/14",
+        "year": "2014",
+        "address": "2100 S. Clay St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "John Sisneros",
+        "victimName": "Isaac Vigil",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/2014SisnerosLetter.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0194786,
+          39.7715223
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "12/12/14",
+        "year": "2014",
+        "address": "2614 W. 40th Ave.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Thornton Police",
+        "officerName": "Brent Mullen",
+        "victimName": "Michael Robbins",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/Decision-Letter-02-11-2015-re-Officer-Mullen.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0005825,
+          39.6892662
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "7/2/14",
+        "year": "2014",
+        "address": "1075 W. Florida Ave.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Justin Dodge",
+        "victimName": "Joseph Valverder",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/Decision-Letter-08-29-2014.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8652551,
+          39.7934522
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "5/16/14",
+        "year": "2014",
+        "address": "10500 E. 54th Ave.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Aurora Police",
+        "officerName": "Randy Carroll",
+        "victimName": "Jeffrey Strouse",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "No",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/Decision-Letter-re-5-16-2014-Officer-Involved-Shooting----Aurora-Police-Officer-Randy-Carroll-.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9911862,
+          39.7849704
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "8/8/14",
+        "year": "2014",
+        "address": "4849 Bannock St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Colorado State Patrol",
+        "officerName": "Matthew Beaudin",
+        "victimName": "Austin David Uncles",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/Decision-Letter-re-8-8-14-Officer-Involved-shooting----Colorado-State-Patrol-Sgt--Matthew-Beaudin---(2).pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0388925,
+          39.7400654
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "1/17/14",
+        "year": "2014",
+        "address": "1490 Perry St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Vincent Matthews",
+        "victimName": "Blas Bernardo Leroux",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2014/PSdecisionletter01-17-14Matthews.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0355366,
+          39.7545041
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "12/2/15",
+        "year": "2015",
+        "address": "2530 N. Meade St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "James Bradley, Brett Titus",
+        "victimName": "Phillip Munoz",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterBradleyTitus.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8766681,
+          39.7693259
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "3/20/15",
+        "year": "2015",
+        "address": "7800 E. Smith Road",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Armando Cruz",
+        "victimName": "John Thomas Clark",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "No",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterCruz.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8287948,
+          39.7882266
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "1/9/15",
+        "year": "2015",
+        "address": "5081 Crown Blvd.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Jeffrey DiManna",
+        "victimName": "Sharod Kindell",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "No",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterDiManna.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8851647,
+          39.7331053
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "12/21/15",
+        "year": "2015",
+        "address": "1103 Yosemite St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Aurora Police",
+        "officerName": "Teresa Fields, Josh Stuteville",
+        "victimName": "Chan Duol Lieth",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterFieldsStuteville-.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0509127,
+          39.7765655
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "12/13/15",
+        "year": "2015",
+        "address": "West 44th Avenue and North Yates Street",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Mountain View Police",
+        "officerName": "Andrew Fulton",
+        "victimName": "Enrique Gonzalez",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterFulton.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9090687,
+          39.7535722
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "1/26/15",
+        "year": "2015",
+        "address": "2500 Newport St",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Gabriel Jordan, Danial Greene",
+        "victimName": "Jessica Hernandez",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterJordanandGreene.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9194281,
+          39.7814995
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "12/17/15",
+        "year": "2015",
+        "address": "4700 block of North Ivy Street",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Aurora Police",
+        "officerName": "David Musgrave",
+        "victimName": "Christopher Padilla",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "No",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/2015letterMusgrave.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0249131,
+          39.7682981
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "12/8/15",
+        "year": "2015",
+        "address": "3700 N. Federal Blvd.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Antonio Lopez",
+        "victimName": "Jason Wood",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/Decision-Letter-2015---3755-N-Federal.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0171833,
+          39.710616
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "11/22/15",
+        "year": "2015",
+        "address": "305 S. Alcott St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Frederick Jones, Jesse Rembert",
+        "victimName": "Miguel Martinez",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/Decision-Letter-2015-South-Alcott.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9909815,
+          39.7461341
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "5/25/15",
+        "year": "2015",
+        "address": "17th Street and California Street",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Adam Foisy, Roman Yepishin",
+        "victimName": "Chisom Nwandilibe",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/Decision-Letter-Nwandilibe-7-31-2015.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.045326,
+          39.700756
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "7/12/15",
+        "year": "2015",
+        "address": "4501 W. Kentucky Ave.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Michael Traudt",
+        "victimName": "Paul Castaway",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/Decision-Letter-re-shooting-death-of-Paul-Castaway.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.927673,
+          39.756682
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "8/22/15",
+        "year": "2015",
+        "address": "Alley between 2800 block Fairfax Street and Forest Street",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Jon Crowe, Jimmy Sheppard",
+        "victimName": "Kylear Antonio Williams",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/Decision-Letter-regarding-Officer-involved-shooting----August-22-2015----DPD-Det.-Jon-Crowe-and-Officer-Jimmy-Sheppard-.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8665948,
+          39.69905
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "1/3/15",
+        "year": "2015",
+        "address": "955 S. Havana St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Aurora Police",
+        "officerName": "Jeffrey Olson",
+        "victimName": "Omari Cook-Nunn",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2015/Decision-letter-regarding-Officer-involved-shooting----January-3-2015----Aurora-Police-Officer-Jeffrey-Olson-.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.997198,
+          39.7453453
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "7/10/16",
+        "year": "2016",
+        "address": "14th Street and Curtis Street",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Randall Wagner",
+        "victimName": "Kevin Jones, Robert Jones",
+        "victimStatus": "Wounded, wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016-14th-&-Curtis.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.018626,
+          39.663302
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "8/31/16",
+        "year": "2016",
+        "address": "2600 block West Bates Avenue",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Sean Cronin",
+        "victimName": "Michael Ferguson",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016-West-Bates.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9915058,
+          39.7514325
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "6/12/16",
+        "year": "2016",
+        "address": "1955 Arapahoe St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Theodore Maher, Joseph Duncan, Christopher Fayles",
+        "victimName": "James Bronish",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016letterDuncanFayles.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0346296,
+          39.7657533
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "2/22/16",
+        "year": "2016",
+        "address": "3500 block Lowell Boulevard",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Rachel Eid, Michael Clark, Kevin Burke, Michelle Cooper",
+        "victimName": "Gerardino Cayetano-Gonzalez",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016letterEidClarkBurkeCooper.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9949064,
+          39.7167814
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "8/27/16",
+        "year": "2016",
+        "address": "8 N. Fox St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Antony Gutierrez-McKain",
+        "victimName": "Terry Lee Salazar",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016letterGutierrezMcKain.pdf"
       }
     },
     {
@@ -3231,6 +2506,731 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -105.0174115,
+          39.7554397
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "1/11/16",
+        "year": "2016",
+        "address": "2601 Zuni St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Kenneth Manzanares, John Mehrtens",
+        "victimName": "Ramone Lonergan",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016letterManzanaresMehrtens.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8897263,
+          39.7404271
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "5/9/16",
+        "year": "2016",
+        "address": "8415 East Colfax Ave.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Aurora Police",
+        "officerName": "Stephen Redfearn",
+        "victimName": "Sidney Sylvester",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016letterRedfearnAurora.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9072439,
+          39.7641277
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "7/31/16",
+        "year": "2016",
+        "address": "3315 N. Olive St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Joseph Stadler",
+        "victimName": "Darius Ratcliff",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/2016letterStadler.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9902423,
+          39.7368631
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "4/12/16",
+        "year": "2016",
+        "address": "1300 block of Bannock Street",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Jeffrey Motz",
+        "victimName": "Dion Damon",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/Decision-letter-April-12-2016----DPD-Technician-Jeffrey-Motz-.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8220007,
+          39.7787566
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "11/8/16",
+        "year": "2016",
+        "address": "14572 E. 46th Ave.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police, Aurora Police",
+        "officerName": "Cassidee Carlson (Aurora), Steven Edwards (Aurora), Jimmy Sheppard (Denver)",
+        "victimName": "Juan Ramos",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2016/Decision-letter-re-Officer-Involved-Shooting--May-9--2017.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9039364,
+          39.7835158
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "2/21/17",
+        "year": "2017",
+        "address": "7203 E. 47th Ave",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Commerce City Police",
+        "officerName": "David Adams, Jonathan Brascetta",
+        "victimName": "Isaac Lesperance-Torres",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2017/Decision-letter-re-Officer-Involved-Shooting----February-21--2017.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0430703,
+          39.6631421
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "5/20/17",
+        "year": "2017",
+        "address": "2873 S. Quitman St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Chad Kendall",
+        "victimName": "Brendan Gerwing",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2017/Decision-Letter-re-Officer-Involved-Shooting--May-20--2017.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8595996,
+          39.7798618
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "9/8/17",
+        "year": "2017",
+        "address": "4525 Kingston St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Sergey Gurevich",
+        "victimName": "Sergio Casimiro-Mejia",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2017/Decision-letter-re-Officer-Involved-Shooting--September-8--2017.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9980202,
+          39.6930768
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "6/9/17",
+        "year": "2017",
+        "address": "Louisiana Avenue and Inca Street",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "U.S. Immigration and Customs Enforcement",
+        "officerName": "Rueben Coray",
+        "victimName": "Hector Santana-Arreola",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2017/Santana-Arreola-Shooting-Decision-Letter.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.980362,
+          39.7402208
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "6/13/18",
+        "year": "2018",
+        "address": "551 E. Colfax Ave.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Travis Lloyd",
+        "victimName": "Carnell Nelson",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2018/Decision-Letter-for-Officer-Involved-Shooting-Death-of-Carnell-Nelson-June-13-2018.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9349079,
+          39.675555
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "2/13/18",
+        "year": "2018",
+        "address": "2250 S. Clermont St.",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "Tom Weis",
+        "victimName": "Peter Le",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2018/Decision-Letter-for-Officer-Involved-Shooting-Death-of-Peter-Le-Feb-13-2018.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9378421,
+          39.7744553
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "3/19/18",
+        "year": "2018",
+        "address": "4100 block of Albion Street",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "Denver Police",
+        "officerName": "William Bohm, Austin Barela, Susan Mercado",
+        "victimName": "Steven Lee Nguyen, Rafael Landeros",
+        "victimStatus": "Killed, wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2018/Decision-Letter-OIS-S.-Nguyen-March-19-2018.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0537323,
+          39.7339701
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "8/23/17",
+        "year": "2017",
+        "address": "1198 Sheridan Blvd",
+        "location": "Denver",
+        "suburbCity": "Denver",
+        "agency": "RTD Security",
+        "officerName": "Jesse Opp, Stephanie Suttmiller",
+        "victimName": "Armando Vigil",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverda.org/wp-content/uploads/decision-letter/2018/Decision-letter-re-Officer-Involved-Shooting-death-of-Armando-Vigil-August-23-2017.pdf"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7994338,
+          39.7354973
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "3/6/15",
+        "year": "2015",
+        "address": "16200 E. 12th Ave.",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Aurora Police",
+        "officerName": "Paul Jerothe",
+        "victimName": "Naeschylus Vinzant**",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "https://www.denverpost.com/2015/12/30/no-indictment-of-aurora-police-officer-in-slaying-of-unarmed-black-man/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8761832,
+          39.594941
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "11/15/18",
+        "year": "2018",
+        "address": "Arapahoe Road and Dayton Street",
+        "location": "Greenwood Village",
+        "suburbCity": "Suburb",
+        "agency": "Arapahoe County Sheriff",
+        "officerName": "3 deputies",
+        "victimName": "Unnamed, unnamed (officer)*",
+        "victimStatus": "Killed, wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "Unknown",
+        "letterUrl": "https://www.denverpost.com/2018/11/15/officer-involved-shooting-aurora-arapahoe/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.054372,
+          39.7367406
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "11/28/18",
+        "year": "2018",
+        "address": "13th Street and Ames Avenue",
+        "location": "Lakewood",
+        "suburbCity": "Suburb",
+        "agency": "Lakewood Police",
+        "officerName": "Multiple officers",
+        "victimName": "Unnamed*",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.denverpost.com/2018/11/28/lakewood-police-o"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.8632779,
+          39.681526
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "12/17/18",
+        "year": "2018",
+        "address": "10600 block of East Jewell Avenue",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Aurora Police",
+        "officerName": "3 officers",
+        "victimName": "David Baker, unnamed (officer)*",
+        "victimStatus": "Killed, wounded",
+        "statusMap": "Multiple",
+        "victimArmed": "No",
+        "letterUrl": "https://www.denverpost.com/2018/12/18/aurora-violent-altercation-leaves-man-dead/"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1005206,
+          39.8049568
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "7/18/17",
+        "year": "2017",
+        "address": "5955 Garrison St.",
+        "location": "Arvada",
+        "suburbCity": "Suburb",
+        "agency": "Jefferson County Sheriff",
+        "officerName": "Erik Baughman",
+        "victimName": "Jeffrey Snyder",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/10222/17-01-Decision-Letter-Officer-Involved-Shooting-07-18-2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.144016,
+          39.775489
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "10/6/17",
+        "year": "2017",
+        "address": "Intersection of Highway 58 and I-70",
+        "location": "Wheat Ridge",
+        "suburbCity": "Suburb",
+        "agency": "Colorado State Patrol",
+        "officerName": "John Stark",
+        "victimName": "Dale Sisson",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/11441/17-03-Decision-Letter-Officer-Involved-Shooting-10-06-2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1089937,
+          39.5691934
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "9/21/17",
+        "year": "2017",
+        "address": "8134 South Kipling Parkway",
+        "location": "Littleton",
+        "suburbCity": "Suburb",
+        "agency": "Jefferson County Sheriff",
+        "officerName": "Andrew James",
+        "victimName": "Austin Clayon Dunsmore",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/11640/17-02-Decision-Letter-Officer-Involved-Shooting-09-21-2017"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.061182,
+          39.863082
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "6/26/18",
+        "year": "2018",
+        "address": "92nd Avenue and Fenton Street",
+        "location": "Westminster",
+        "suburbCity": "Suburb",
+        "agency": "Westminster Police",
+        "officerName": "Unnamed",
+        "victimName": "Ronald Romero",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/15550/18-001-WETAdams-Decision-Letter-Officer-Involved-Shooting-07-26-2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0826851,
+          39.8628432
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "6/10/18",
+        "year": "2018",
+        "address": "92nd Avenue and Wadsworth Parkway",
+        "location": "Westminster",
+        "suburbCity": "Suburb",
+        "agency": "Northglenn Police",
+        "officerName": "Preston Young",
+        "victimName": "Brandon Vieweg",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/15560/18-002-WETAdams-Decision-Letter-Officer-Involved-Shooting-06-10-2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1111253,
+          39.7858904
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "1/14/18",
+        "year": "2018",
+        "address": "10100 W. 49th Ave.",
+        "location": "Arvada",
+        "suburbCity": "Suburb",
+        "agency": "Arvada Police",
+        "officerName": "Brandon Valdez",
+        "victimName": "Erick Michael DeLeon",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/15686/18-01-Decision-Letter-Officer-Involved-Shooting-01-14-2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0749761,
+          39.8500107
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "1/31/18",
+        "year": "2018",
+        "address": "6952 W. 84th Way",
+        "location": "Arvada",
+        "suburbCity": "Suburb",
+        "agency": "Arvada Police",
+        "officerName": "Benallo, Laas, LeDoux, Saathoff",
+        "victimName": "Adrian Valdez",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/15687/18-02-Decision-Letter-Officer-Involved-Shooting-01-31-2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.279383,
+          39.740594
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "11/4/18",
+        "year": "2018",
+        "address": "Mile marker 267 Highway 6",
+        "location": "Jefferson County",
+        "suburbCity": "Suburb",
+        "agency": "Jefferson County Sheriff, Colorado State Patrol",
+        "officerName": "Vincent Alonso (Jefferson County), Gregario Retana (State Patrol)",
+        "victimName": "Ryan Millsap",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/16626/18-04-Decision-Letter-Officer-Involved-Shooting-11-04-2018"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0537779,
+          39.7180938
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "8/13/16",
+        "year": "2016",
+        "address": "95 Sheridan Blvd.",
+        "location": "Lakewood",
+        "suburbCity": "Suburb",
+        "agency": "Lakewood Police",
+        "officerName": "Sean Radke",
+        "victimName": "Perry Heitman",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/8985/16-04-Decision-Letter-Officer-Involved-Shooting-08-13-2016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0650123,
+          39.7494355
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "6/21/16",
+        "year": "2016",
+        "address": "22nd Avenue and Jay Street",
+        "location": "Edgewater",
+        "suburbCity": "Suburb",
+        "agency": "Golden Police",
+        "officerName": "Chad St. Aubin, Courtland Kloberdance, Eric Jones",
+        "victimName": "David Edward Little",
+        "victimStatus": "Wounded",
+        "statusMap": "Wounded",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/8986/16-03-Decision-Letter-Officer-Involved-Shooting-06-21-2016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0541889,
+          39.8531005
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "6/16/16",
+        "year": "2016",
+        "address": "8601 Sheridan Blvd.",
+        "location": "Westminster",
+        "suburbCity": "Suburb",
+        "agency": "Westminster Police, Aurora Police",
+        "officerName": "Unnamed",
+        "victimName": "Nicholas Damon",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "No",
+        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/8987/16-02-Decision-Letter-Officer-Involved-Shooting-06-16-2016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0802646,
+          39.7233319
+        ]
+      },
+      "properties": {
+        "button": "",
+        "date": "5/26/16",
+        "year": "2016",
+        "address": "480 Wadsworth Blvd.",
+        "location": "Lakewood",
+        "suburbCity": "Suburb",
+        "agency": "Lakewood Police",
+        "officerName": "Unnamed",
+        "victimName": "Robin Barber",
+        "victimStatus": "Killed",
+        "statusMap": "Killed",
+        "victimArmed": "Yes",
+        "letterUrl": "https://www.jeffco.us/DocumentCenter/View/8988/16-01-Decision-Letter-Officer-Involved-Shooting-04-26-2016"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -104.842921,
           39.660817
         ]
@@ -3248,7 +3248,7 @@
         "victimStatus": "Wounded",
         "statusMap": "Wounded",
         "victimArmed": "Unknown",
-        "letterUrl": "No letter"
+        "letterUrl": "No letter available"
       }
     },
     {
@@ -3256,24 +3256,24 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -104.981629,
-          39.855302
+          -104.7942576,
+          39.6562948
         ]
       },
       "properties": {
         "button": "",
-        "date": "1/2/14",
+        "date": "6/6/14",
         "year": "2014",
-        "address": "368 E. 88th Ave.",
-        "location": "Denver",
-        "suburbCity": "Denver",
-        "agency": "Denver Police, Thornton Police",
-        "officerName": "Lee Simones (DPD), Jay Otey (DPD), Bill Twinem (TPD)",
-        "victimName": "Wesley Maldonado",
+        "address": "3358 S. Nucla Way",
+        "location": "Aurora",
+        "suburbCity": "Aurora",
+        "agency": "Aurora Police",
+        "officerName": "Erick Ortiz",
+        "victimName": "Paul L’Herault",
         "victimStatus": "Killed",
         "statusMap": "Killed",
         "victimArmed": "Yes",
-        "letterUrl": "http://adamsbroomfieldda.org/wp-content/uploads/2014/04/Decision-letter-re-officer-involved-shooting-Jan.-2-2014.pdf"
+        "letterUrl": "No letter available"
       }
     }
   ]
