@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Colorado School Lockout and Lockdown Database | The Denver Post</title>
+    <title>Colorado Officer-involved Shootings | The Denver Post</title>
     <meta charset="utf-8">
     <meta name="robots" content="noindex,follow">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
@@ -105,24 +105,24 @@
         <div id="lockdowns-table-container">
             <div class="row">
                 <div class="large-12 columns">
-                    <h2 class="table-title">Colorado school lockouts and lockdowns</h2>
-                    <p class="body-text">School districts have different ways to report actions they take to protect students in school. Typically, a lockout is called to protect students from danger or threats outside the building. a lockdown is used to protect students from danger inside the school. The Denver Post collected data from 25 school districts across the state.</p>
-                    <p class="instructions-text">Use dropdown menus to filter table; click column headers to sort</p>
+                    <h2 class="table-title">Colorado officer-involved shootings</h2>
+                    <p class="body-text">Chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter and chatter.</p>
+                    <p class="instructions-text">Use dropdown menus or keyword search to filter table &bull; click name to go to decision letter or news story &bull; click column headers to sort</p>
                 </div>
             </div>
             <div id="filters">
                 <div class="row">
                     <div class="large-3 medium-3 small-12 columns">
-                        <span id="district-filter" style="font-weight: bold;"></span>
+                        <span id="filter-1" style="font-weight: bold;"></span>
                     </div>
                     <div class="large-3 medium-3 small-12 columns">
-                        <span id="schooltype-filter" style="font-weight: bold;"></span>
+                        <span id="filter-2" style="font-weight: bold;"></span>
                     </div>
                     <div class="large-3 medium-3 small-12 columns">
-                        <span id="category-filter" style="font-weight: bold;"></span>
+                        <span id="filter-3" style="font-weight: bold;"></span>
                     </div>
                     <div class="large-3 medium-3 small-12 columns">
-                        <span id="year-filter" style="font-weight: bold;"></span>
+                        <span id="filter-4" style="font-weight: bold;"></span>
                     </div>
                 </div>
             </div>
@@ -139,15 +139,18 @@
                     <thead>
                         <tr>
                             <th></th>
-                            <th data-priority="1">District</th>
-                            <th data-priority="2">School</th>
-                            <th data-priority="3">Date</th>
-                            <th data-priority="4">Category</th>
-                            <th data-priority="5">School type</th>
-                            <th>School year</th>
-                            <th data-priority="6">City</th>
-                            <th class="none">"Other" reason</th>
-                            <th>Address</th>
+                            <th data-priority="1">Agency</th>
+                            <th data-priority="2">Date</th>
+                            <th data-priority="3">Victim(s)</th>
+                            <th data-priority="4">Condition</th>
+                            <th data-priority="5">Armed</th>
+                            <th>Officer(s)</th>
+                            <th class="none">Address</th>
+                            <th class="none">Location</th>
+                            <th class="none">Letter</th>
+                            <th>Year</th>
+                            <th>Agency type</th>
+                            <th>Map status</th>
                         </tr>
                     </thead>
                     <tfoot>
@@ -159,7 +162,7 @@
         </div>
     </div>
     <script>
-    var dataFile = 'table-data.json'
+    var dataFile = 'ois-data.geojson'
 
     $(document).ready(function() {
         function disableDependentFilter(level, inuse) {
@@ -175,7 +178,7 @@
         var lockdownTable = $('#lockdown-table').DataTable({
             ajax: {
                 'url': dataFile,
-                'dataSrc': ''
+                'dataSrc': 'features'
             },
             pageLength: 15,
             responsive: {
@@ -191,16 +194,16 @@
                 },
                 {
                     type: 'date',
-                    targets: 3
+                    targets: 2
                 }
             ],
             order: [
                 [1, 'asc']
             ],
             columns: [
-                { data: 'button' },
+                { data: 'properties.button' },
                 {
-                    data: 'district',
+                    data: 'properties.agency',
                     // render: function(data, type, row) {
                     //     if (data == 'DEM') {
                     //         return '<div class="dem">&nbsp;</div>'
@@ -209,69 +212,81 @@
                     //     }
                     // }
                 },
-                { data: 'location' },
-                // {
-                //     data: 'income',
-                //     render: function(data, type, row) {
-                //         //console.log(row.income);
-                //         var incomeNumber = (row.income).replace(/[^0-9]+/g, '');
-                //         return '$' + parseInt(incomeNumber).toLocaleString();
-                //     }
-                //     //render: $.fn.dataTable.render.number(',', '.', 0, '$')
-                //     // render: function(data, type, row) {
-                //     //     if(row.income == '') {
-                //     //         return 0
-                //     //     } else {
-                //     //         return row.income
-                //     //     }
-                //     // }
-                // },
                 {
-                    data: 'date'
+                    data: 'properties.date'
+                    // render: function(data, type, row) {
+                    //     if (row.properties.letterUrl != '') {
+                    //         return '<a href="' + row.properties.letterUrl + '" target="_blank">' + row.properties.date + '</a>'
+                    //     } else {
+                    //         return row.properties.date
+                    //     }
+                    // }
+                },
+                {
+                    data: 'properties.victimName',
+                    render: function(data, type, row) {
+                        if (row.properties.letterUrl != '') {
+                            return '<a href="' + row.properties.letterUrl + '" target="_blank">' + row.properties.victimName + '</a>'
+                        } else {
+                            return row.properties.victimName
+                        }
+                    }
                     //render: $.fn.dataTable.moment("MM/DD/YY")
                 },
                 {
-                    data: 'category'
+                    data: 'properties.victimStatus'
                 },
                 {
-                    data: 'schoolType'
+                    data: 'properties.victimArmed'
                 },
                 {
-                    data: 'year',
+                    data: 'properties.officerName'
+                    //visible: false
+                },
+                {
+                    data: 'properties.address'
+                },
+                {
+                    data: 'properties.location'
+                },
+                {
+                    data: 'properties.letterUrl',
                     visible: false
                 },
                 {
-                    data: 'city'
+                    data: 'properties.year',
+                    visible: false
                 },
                 {
-                    data: 'categorySub'
+                    data: 'properties.suburbCity',
+                    visible: false
                 },
                 {
-                    data: 'address',
+                    data: 'properties.statusMap',
                     visible: false
                 }
             ],
 
             initComplete: function() {
                 yadcf.init(lockdownTable, [{
-                        column_number: 1,
-                        filter_container_id: 'district-filter',
-                        filter_default_label: 'Filter by district'
+                        column_number: 8,
+                        filter_container_id: 'filter-1',
+                        filter_default_label: 'Filter by location'
                     }, {
-                        column_number: 4,
-                        filter_container_id: 'category-filter',
-                        filter_default_label: 'Filter by category'
+                        column_number: 1,
+                        filter_container_id: 'filter-2',
+                        filter_default_label: 'Filter by agency'
                     },
                     {
-                        column_number: 5,
-                        filter_container_id: 'schooltype-filter',
-                        filter_default_label: 'Filter by type',
+                        column_number: 12,
+                        filter_container_id: 'filter-3',
+                        filter_default_label: 'Filter by victim condition',
                         //column_data_type: 'rendered_html'
                     },
                     {
-                        column_number: 6,
-                        filter_container_id: 'year-filter',
-                        filter_default_label: 'Filter by year',
+                        column_number: 5,
+                        filter_container_id: 'filter-4',
+                        filter_default_label: 'Filter by suspect armed',
                         //column_data_type: 'rendered_html'
                     }
                 ], {
